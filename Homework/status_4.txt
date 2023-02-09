@@ -1,0 +1,371 @@
+Starting Job... 2018-09-03 21:46:53.519549
+Opening Assm file 0 4fd1a479-ad18-4ea3-9f61-64a81697459e.f3d 2018-09-03 21:46:54.563721
+Extracting Data from Assm file 0 4fd1a479-ad18-4ea3-9f61-64a81697459e.f3d 1 Bodies 2018-09-03 21:46:54.573469
+NO OCCURENCES!!! Going into "no_occurences()" fn.4fd1a479-ad18-4ea3-9f61-64a81697459e.f3d 2018-09-03 21:46:54.581872
+Assem File Completed 0 4fd1a479-ad18-4ea3-9f61-64a81697459e.f3d 2018-09-03 21:46:56.344888
+Opening Assm file 1 4fe7505c-03a4-494f-b22a-45b8d569cedc.f3d 2018-09-03 21:46:57.396683
+Extracting Data from Assm file 1 4fe7505c-03a4-494f-b22a-45b8d569cedc.f3d 1 Bodies 2018-09-03 21:46:57.410355
+NO OCCURENCES!!! Going into "no_occurences()" fn.4fe7505c-03a4-494f-b22a-45b8d569cedc.f3d 2018-09-03 21:46:57.417277
+Assem File Completed 1 4fe7505c-03a4-494f-b22a-45b8d569cedc.f3d 2018-09-03 21:46:58.462679
+Opening Assm file 2 4feb5b5a-f262-4815-b270-2c9963d15694.f3d 2018-09-03 21:46:59.490487
+Extracting Data from Assm file 2 4feb5b5a-f262-4815-b270-2c9963d15694.f3d 1 Bodies 2018-09-03 21:46:59.498282
+NO OCCURENCES!!! Going into "no_occurences()" fn.4feb5b5a-f262-4815-b270-2c9963d15694.f3d 2018-09-03 21:46:59.504827
+Assem File Completed 2 4feb5b5a-f262-4815-b270-2c9963d15694.f3d 2018-09-03 21:47:00.541023
+Opening Assm file 3 50068891-78d5-4453-875b-59820a7402ed.f3d 2018-09-03 21:47:01.496261
+Extracting Data from Assm file 3 50068891-78d5-4453-875b-59820a7402ed.f3d 1 Bodies 2018-09-03 21:47:01.509317
+NO OCCURENCES!!! Going into "no_occurences()" fn.50068891-78d5-4453-875b-59820a7402ed.f3d 2018-09-03 21:47:01.517222
+Assem File Completed 3 50068891-78d5-4453-875b-59820a7402ed.f3d 2018-09-03 21:47:02.841513
+Opening Assm file 4 502c0d2a-a94c-43ed-9f1c-016a245c9c73.f3d 2018-09-03 21:47:04.135718
+Extracting Data from Assm file 4 502c0d2a-a94c-43ed-9f1c-016a245c9c73.f3d 107 Bodies 2018-09-03 21:47:04.150006
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.502c0d2a-a94c-43ed-9f1c-016a245c9c73.f3d 2018-09-03 21:47:04.157532
+Assem File Completed 4 502c0d2a-a94c-43ed-9f1c-016a245c9c73.f3d 2018-09-03 21:49:00.482398
+Opening Assm file 5 5034f98c-2c78-45fb-a654-3f6605d45c0e.f3d 2018-09-03 21:49:05.936483
+Extracting Data from Assm file 5 5034f98c-2c78-45fb-a654-3f6605d45c0e.f3d 2676 Bodies 2018-09-03 21:49:07.571622
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.5034f98c-2c78-45fb-a654-3f6605d45c0e.f3d 2018-09-03 21:49:07.581275
+
+Starting Job... 2018-09-04 08:18:28.633959
+Opening Assm file 0 505282e0-a003-49e4-a00f-6580b5f3d82d.f3d 2018-09-04 08:18:30.258425
+Extracting Data from Assm file 0 505282e0-a003-49e4-a00f-6580b5f3d82d.f3d 109 Bodies 2018-09-04 08:18:30.295465
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.505282e0-a003-49e4-a00f-6580b5f3d82d.f3d 2018-09-04 08:18:30.303456
+Assem File Completed 0 505282e0-a003-49e4-a00f-6580b5f3d82d.f3d 2018-09-04 08:20:48.768140
+Opening Assm file 1 507c38c3-6579-475a-90aa-867353aac1c4.f3d 2018-09-04 08:20:49.951145
+Extracting Data from Assm file 1 507c38c3-6579-475a-90aa-867353aac1c4.f3d 8 Bodies 2018-09-04 08:20:49.964155
+NO OCCURENCES!!! Going into "no_occurences()" fn.507c38c3-6579-475a-90aa-867353aac1c4.f3d 2018-09-04 08:20:49.972718
+Assem File Completed 1 507c38c3-6579-475a-90aa-867353aac1c4.f3d 2018-09-04 08:20:59.602604
+Opening Assm file 2 507cc758-2749-4e9e-a91d-1bc04d68ba68.f3d 2018-09-04 08:21:00.929839
+Extracting Data from Assm file 2 507cc758-2749-4e9e-a91d-1bc04d68ba68.f3d 1 Bodies 2018-09-04 08:21:00.943926
+NO OCCURENCES!!! Going into "no_occurences()" fn.507cc758-2749-4e9e-a91d-1bc04d68ba68.f3d 2018-09-04 08:21:00.951949
+Assem File Completed 2 507cc758-2749-4e9e-a91d-1bc04d68ba68.f3d 2018-09-04 08:21:04.928582
+Opening Assm file 3 509f3f54-2796-455e-bc08-e15b0008816f.f3d 2018-09-04 08:21:06.018030
+Extracting Data from Assm file 3 509f3f54-2796-455e-bc08-e15b0008816f.f3d 1 Bodies 2018-09-04 08:21:06.030594
+NO OCCURENCES!!! Going into "no_occurences()" fn.509f3f54-2796-455e-bc08-e15b0008816f.f3d 2018-09-04 08:21:06.039622
+Assem File Completed 3 509f3f54-2796-455e-bc08-e15b0008816f.f3d 2018-09-04 08:21:07.578619
+Opening Assm file 4 50cc4a84-0cec-428c-8cdc-795f31ce756c.f3d 2018-09-04 08:21:08.729949
+Extracting Data from Assm file 4 50cc4a84-0cec-428c-8cdc-795f31ce756c.f3d 1 Bodies 2018-09-04 08:21:08.748215
+NO OCCURENCES!!! Going into "no_occurences()" fn.50cc4a84-0cec-428c-8cdc-795f31ce756c.f3d 2018-09-04 08:21:08.759212
+Assem File Completed 4 50cc4a84-0cec-428c-8cdc-795f31ce756c.f3d 2018-09-04 08:21:10.307046
+Opening Assm file 5 50d840ce-a907-467d-9ea4-0d20034fdb0a.f3d 2018-09-04 08:21:11.450603
+Extracting Data from Assm file 5 50d840ce-a907-467d-9ea4-0d20034fdb0a.f3d 1 Bodies 2018-09-04 08:21:11.463682
+NO OCCURENCES!!! Going into "no_occurences()" fn.50d840ce-a907-467d-9ea4-0d20034fdb0a.f3d 2018-09-04 08:21:11.472735
+Assem File Completed 5 50d840ce-a907-467d-9ea4-0d20034fdb0a.f3d 2018-09-04 08:21:13.090254
+Opening Assm file 6 50f4ead9-2b37-4b56-bc87-83731bb28368.f3d 2018-09-04 08:21:14.138954
+Extracting Data from Assm file 6 50f4ead9-2b37-4b56-bc87-83731bb28368.f3d 1 Bodies 2018-09-04 08:21:14.152015
+NO OCCURENCES!!! Going into "no_occurences()" fn.50f4ead9-2b37-4b56-bc87-83731bb28368.f3d 2018-09-04 08:21:14.161185
+Assem File Completed 6 50f4ead9-2b37-4b56-bc87-83731bb28368.f3d 2018-09-04 08:21:15.540352
+Opening Assm file 7 50f8bd06-c7cc-4fcc-85a9-dd4e8f524ef2.f3d 2018-09-04 08:21:16.562926
+Extracting Data from Assm file 7 50f8bd06-c7cc-4fcc-85a9-dd4e8f524ef2.f3d 1 Bodies 2018-09-04 08:21:16.578189
+NO OCCURENCES!!! Going into "no_occurences()" fn.50f8bd06-c7cc-4fcc-85a9-dd4e8f524ef2.f3d 2018-09-04 08:21:16.586211
+Assem File Completed 7 50f8bd06-c7cc-4fcc-85a9-dd4e8f524ef2.f3d 2018-09-04 08:21:17.837002
+Opening Assm file 8 5116ee0c-4636-40a4-ade5-68e94be93f17.f3d 2018-09-04 08:21:18.927355
+Extracting Data from Assm file 8 5116ee0c-4636-40a4-ade5-68e94be93f17.f3d 1 Bodies 2018-09-04 08:21:18.940471
+NO OCCURENCES!!! Going into "no_occurences()" fn.5116ee0c-4636-40a4-ade5-68e94be93f17.f3d 2018-09-04 08:21:18.947489
+Assem File Completed 8 5116ee0c-4636-40a4-ade5-68e94be93f17.f3d 2018-09-04 08:21:20.206273
+Opening Assm file 9 511e4781-be6e-44f1-a9ae-4062e5b4d540.f3d 2018-09-04 08:21:21.414754
+Extracting Data from Assm file 9 511e4781-be6e-44f1-a9ae-4062e5b4d540.f3d 4 Bodies 2018-09-04 08:21:21.427986
+NO OCCURENCES!!! Going into "no_occurences()" fn.511e4781-be6e-44f1-a9ae-4062e5b4d540.f3d 2018-09-04 08:21:21.435488
+Assem File Completed 9 511e4781-be6e-44f1-a9ae-4062e5b4d540.f3d 2018-09-04 08:21:28.377439
+Jobs Completed.. 10 2018-09-04 08:21:28.503153
+
+
+Starting Job... 2018-09-07 17:16:39.396807
+Opening Assm file 0 51248982-e564-46c8-9668-dac295e3293d.f3d 2018-09-07 17:16:40.817145
+Extracting Data from Assm file 0 51248982-e564-46c8-9668-dac295e3293d.f3d 1 Bodies 2018-09-07 17:16:40.834217
+NO OCCURENCES!!! Going into "no_occurences()" fn.51248982-e564-46c8-9668-dac295e3293d.f3d 2018-09-07 17:16:40.841221
+Assem File Completed 0 51248982-e564-46c8-9668-dac295e3293d.f3d 2018-09-07 17:16:45.829148
+Opening Assm file 1 5139791b-7618-4d3e-80e8-2558834dc00b.f3d 2018-09-07 17:16:47.845715
+Extracting Data from Assm file 1 5139791b-7618-4d3e-80e8-2558834dc00b.f3d 65 Bodies 2018-09-07 17:16:47.860777
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.5139791b-7618-4d3e-80e8-2558834dc00b.f3d 2018-09-07 17:16:47.873790
+Assem File Completed 1 5139791b-7618-4d3e-80e8-2558834dc00b.f3d 2018-09-07 17:18:02.000298
+Opening Assm file 2 5176f496-a1c1-4bf1-98f2-b35e06448509.f3d 2018-09-07 17:18:03.162617
+Extracting Data from Assm file 2 5176f496-a1c1-4bf1-98f2-b35e06448509.f3d 1 Bodies 2018-09-07 17:18:03.177657
+NO OCCURENCES!!! Going into "no_occurences()" fn.5176f496-a1c1-4bf1-98f2-b35e06448509.f3d 2018-09-07 17:18:03.186681
+Assem File Completed 2 5176f496-a1c1-4bf1-98f2-b35e06448509.f3d 2018-09-07 17:18:04.271643
+Opening Assm file 3 518bf56b-e78f-4cad-882a-979383d21223.f3d 2018-09-07 17:18:05.349012
+Extracting Data from Assm file 3 518bf56b-e78f-4cad-882a-979383d21223.f3d 1 Bodies 2018-09-07 17:18:05.369065
+NO OCCURENCES!!! Going into "no_occurences()" fn.518bf56b-e78f-4cad-882a-979383d21223.f3d 2018-09-07 17:18:05.378091
+Assem File Completed 3 518bf56b-e78f-4cad-882a-979383d21223.f3d 2018-09-07 17:18:06.440042
+Opening Assm file 4 5193beb5-5da8-4a1c-9ff3-89fc153eda99.f3d 2018-09-07 17:18:22.761809
+Extracting Data from Assm file 4 5193beb5-5da8-4a1c-9ff3-89fc153eda99.f3d 2 Bodies 2018-09-07 17:18:22.772839
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.5193beb5-5da8-4a1c-9ff3-89fc153eda99.f3d 2018-09-07 17:18:22.783867
+Assem File Completed 4 5193beb5-5da8-4a1c-9ff3-89fc153eda99.f3d 2018-09-07 17:18:25.461199
+Opening Assm file 5 519821d6-f043-4562-a707-1799817877fc.f3d 2018-09-07 17:18:27.169943
+Extracting Data from Assm file 5 519821d6-f043-4562-a707-1799817877fc.f3d 335 Bodies 2018-09-07 17:18:27.195011
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.519821d6-f043-4562-a707-1799817877fc.f3d 2018-09-07 17:18:27.206041
+Assem File Completed 5 519821d6-f043-4562-a707-1799817877fc.f3d 2018-09-07 17:24:42.406254
+Opening Assm file 6 5199a35f-1902-4bcc-a174-2ba53e3bce39.f3d 2018-09-07 17:24:43.878403
+Extracting Data from Assm file 6 5199a35f-1902-4bcc-a174-2ba53e3bce39.f3d 1 Bodies 2018-09-07 17:24:43.887458
+NO OCCURENCES!!! Going into "no_occurences()" fn.5199a35f-1902-4bcc-a174-2ba53e3bce39.f3d 2018-09-07 17:24:43.898457
+Assem File Completed 6 5199a35f-1902-4bcc-a174-2ba53e3bce39.f3d 2018-09-07 17:24:47.501549
+Opening Assm file 7 51ab064f-fff9-4467-af1e-e19eb8ef3938.f3d 2018-09-07 17:24:48.679028
+Extracting Data from Assm file 7 51ab064f-fff9-4467-af1e-e19eb8ef3938.f3d 1 Bodies 2018-09-07 17:24:48.691061
+NO OCCURENCES!!! Going into "no_occurences()" fn.51ab064f-fff9-4467-af1e-e19eb8ef3938.f3d 2018-09-07 17:24:48.707104
+Assem File Completed 7 51ab064f-fff9-4467-af1e-e19eb8ef3938.f3d 2018-09-07 17:24:49.952881
+Opening Assm file 8 51f23a27-1002-4b1d-a5c5-2273449ffaa9.f3d 2018-09-07 17:24:51.093666
+Extracting Data from Assm file 8 51f23a27-1002-4b1d-a5c5-2273449ffaa9.f3d 1 Bodies 2018-09-07 17:24:51.108729
+NO OCCURENCES!!! Going into "no_occurences()" fn.51f23a27-1002-4b1d-a5c5-2273449ffaa9.f3d 2018-09-07 17:24:51.119757
+Assem File Completed 8 51f23a27-1002-4b1d-a5c5-2273449ffaa9.f3d 2018-09-07 17:24:52.370298
+Opening Assm file 9 521a70b7-7e3c-420e-8912-0e3cf37c2352.f3d 2018-09-07 17:24:53.582301
+Extracting Data from Assm file 9 521a70b7-7e3c-420e-8912-0e3cf37c2352.f3d 1 Bodies 2018-09-07 17:24:53.592327
+NO OCCURENCES!!! Going into "no_occurences()" fn.521a70b7-7e3c-420e-8912-0e3cf37c2352.f3d 2018-09-07 17:24:53.603385
+Assem File Completed 9 521a70b7-7e3c-420e-8912-0e3cf37c2352.f3d 2018-09-07 17:24:55.464787
+Jobs Completed.. 10 2018-09-07 17:24:55.642260
+
+Starting Job... 2018-09-07 17:26:56.405978
+Opening Assm file 0 52311da1-0460-4d90-906a-cbe74f3d0c59.f3d 2018-09-07 17:26:57.629176
+Extracting Data from Assm file 0 52311da1-0460-4d90-906a-cbe74f3d0c59.f3d 2 Bodies 2018-09-07 17:26:57.644723
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.52311da1-0460-4d90-906a-cbe74f3d0c59.f3d 2018-09-07 17:26:57.655766
+Assem File Completed 0 52311da1-0460-4d90-906a-cbe74f3d0c59.f3d 2018-09-07 17:27:03.304284
+Opening Assm file 1 5235ea29-cf52-4f5d-bd9e-8eaa8e2239ac.f3d 2018-09-07 17:27:09.353632
+Extracting Data from Assm file 1 5235ea29-cf52-4f5d-bd9e-8eaa8e2239ac.f3d 768 Bodies 2018-09-07 17:27:09.370678
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.5235ea29-cf52-4f5d-bd9e-8eaa8e2239ac.f3d 2018-09-07 17:27:09.380689
+Assem File Completed 1 5235ea29-cf52-4f5d-bd9e-8eaa8e2239ac.f3d 2018-09-07 17:43:52.547802
+Opening Assm file 2 524c0c33-ad63-4720-8e50-1493904caad1.f3d 2018-09-07 17:43:55.072831
+Extracting Data from Assm file 2 524c0c33-ad63-4720-8e50-1493904caad1.f3d 27 Bodies 2018-09-07 17:43:55.084863
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.524c0c33-ad63-4720-8e50-1493904caad1.f3d 2018-09-07 17:43:55.094918
+Assem File Completed 2 524c0c33-ad63-4720-8e50-1493904caad1.f3d 2018-09-07 17:44:40.540918
+Opening Assm file 3 5253b3ff-cacb-4a94-b4ba-4f9ad1768f2f.f3d 2018-09-07 17:44:42.192823
+Extracting Data from Assm file 3 5253b3ff-cacb-4a94-b4ba-4f9ad1768f2f.f3d 16 Bodies 2018-09-07 17:44:42.207863
+NO OCCURENCES!!! Going into "no_occurences()" fn.5253b3ff-cacb-4a94-b4ba-4f9ad1768f2f.f3d 2018-09-07 17:44:42.219895
+Assem File Completed 3 5253b3ff-cacb-4a94-b4ba-4f9ad1768f2f.f3d 2018-09-07 17:45:10.038202
+Opening Assm file 4 5253beff-7f46-4fb4-a842-bbb51d9f54bd.f3d 2018-09-07 17:45:11.949613
+Extracting Data from Assm file 4 5253beff-7f46-4fb4-a842-bbb51d9f54bd.f3d 175 Bodies 2018-09-07 17:45:11.970670
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.5253beff-7f46-4fb4-a842-bbb51d9f54bd.f3d 2018-09-07 17:45:11.982702
+Assem File Completed 4 5253beff-7f46-4fb4-a842-bbb51d9f54bd.f3d 2018-09-07 17:50:10.138445
+Opening Assm file 5 5267d58c-a3c7-4157-b8e2-68039cdfe765.f3d 2018-09-07 17:50:12.363847
+Extracting Data from Assm file 5 5267d58c-a3c7-4157-b8e2-68039cdfe765.f3d 36 Bodies 2018-09-07 17:50:12.380636
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.5267d58c-a3c7-4157-b8e2-68039cdfe765.f3d 2018-09-07 17:50:12.390662
+Assem File Completed 5 5267d58c-a3c7-4157-b8e2-68039cdfe765.f3d 2018-09-07 17:51:19.783310
+Opening Assm file 6 5269df7f-57be-4fc4-b0dd-067856f32f74.f3d 2018-09-07 17:51:21.625715
+Extracting Data from Assm file 6 5269df7f-57be-4fc4-b0dd-067856f32f74.f3d 1 Bodies 2018-09-07 17:51:21.637746
+NO OCCURENCES!!! Going into "no_occurences()" fn.5269df7f-57be-4fc4-b0dd-067856f32f74.f3d 2018-09-07 17:51:21.651783
+Assem File Completed 6 5269df7f-57be-4fc4-b0dd-067856f32f74.f3d 2018-09-07 17:51:24.769849
+Opening Assm file 7 527e4568-4d65-449e-91e2-4b41ba887686.f3d 2018-09-07 17:51:26.609461
+Extracting Data from Assm file 7 527e4568-4d65-449e-91e2-4b41ba887686.f3d 1 Bodies 2018-09-07 17:51:26.621494
+NO OCCURENCES!!! Going into "no_occurences()" fn.527e4568-4d65-449e-91e2-4b41ba887686.f3d 2018-09-07 17:51:26.632522
+Assem File Completed 7 527e4568-4d65-449e-91e2-4b41ba887686.f3d 2018-09-07 17:51:28.602965
+Opening Assm file 8 52996a98-a907-4790-b0f7-b5bd2ee7604a.f3d 2018-09-07 17:51:30.296455
+Extracting Data from Assm file 8 52996a98-a907-4790-b0f7-b5bd2ee7604a.f3d 1 Bodies 2018-09-07 17:51:30.311526
+NO OCCURENCES!!! Going into "no_occurences()" fn.52996a98-a907-4790-b0f7-b5bd2ee7604a.f3d 2018-09-07 17:51:30.322552
+Assem File Completed 8 52996a98-a907-4790-b0f7-b5bd2ee7604a.f3d 2018-09-07 17:51:32.230748
+Opening Assm file 9 52a1daa4-2c4c-47ba-8dfe-4503a26affc0.f3d 2018-09-07 17:51:33.891065
+Extracting Data from Assm file 9 52a1daa4-2c4c-47ba-8dfe-4503a26affc0.f3d 1 Bodies 2018-09-07 17:51:33.908115
+NO OCCURENCES!!! Going into "no_occurences()" fn.52a1daa4-2c4c-47ba-8dfe-4503a26affc0.f3d 2018-09-07 17:51:33.919140
+Assem File Completed 9 52a1daa4-2c4c-47ba-8dfe-4503a26affc0.f3d 2018-09-07 17:51:35.835658
+Opening Assm file 10 52a98f46-2414-44e3-a48d-cd5fd6ed890b.f3d 2018-09-07 17:51:37.976223
+Extracting Data from Assm file 10 52a98f46-2414-44e3-a48d-cd5fd6ed890b.f3d 115 Bodies 2018-09-07 17:51:38.007352
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.52a98f46-2414-44e3-a48d-cd5fd6ed890b.f3d 2018-09-07 17:51:38.018405
+Assem File Completed 10 52a98f46-2414-44e3-a48d-cd5fd6ed890b.f3d 2018-09-07 17:55:21.892040
+Opening Assm file 11 52aac168-dc86-4f1c-831d-8da5077fdf80.f3d 2018-09-07 17:55:23.881019
+Extracting Data from Assm file 11 52aac168-dc86-4f1c-831d-8da5077fdf80.f3d 2 Bodies 2018-09-07 17:55:23.897094
+NO OCCURENCES!!! Going into "no_occurences()" fn.52aac168-dc86-4f1c-831d-8da5077fdf80.f3d 2018-09-07 17:55:23.908097
+Assem File Completed 11 52aac168-dc86-4f1c-831d-8da5077fdf80.f3d 2018-09-07 17:55:28.392629
+Opening Assm file 12 52abe266-c0ac-42a2-bd5b-21b51feaabb9.f3d 2018-09-07 17:55:30.461578
+Extracting Data from Assm file 12 52abe266-c0ac-42a2-bd5b-21b51feaabb9.f3d 6 Bodies 2018-09-07 17:55:30.481684
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.52abe266-c0ac-42a2-bd5b-21b51feaabb9.f3d 2018-09-07 17:55:30.491711
+Assem File Completed 12 52abe266-c0ac-42a2-bd5b-21b51feaabb9.f3d 2018-09-07 17:55:45.070639
+Opening Assm file 13 52c2fc53-e57f-42c3-9d12-8892d066ef0c.f3d 2018-09-07 17:55:48.645445
+Extracting Data from Assm file 13 52c2fc53-e57f-42c3-9d12-8892d066ef0c.f3d 25 Bodies 2018-09-07 17:55:48.658480
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.52c2fc53-e57f-42c3-9d12-8892d066ef0c.f3d 2018-09-07 17:55:48.670524
+Assem File Completed 13 52c2fc53-e57f-42c3-9d12-8892d066ef0c.f3d 2018-09-07 17:57:10.707182
+Opening Assm file 14 52cc9f1f-5889-4012-b4d8-4f4fb01ad297.f3d 2018-09-07 17:57:12.713747
+Extracting Data from Assm file 14 52cc9f1f-5889-4012-b4d8-4f4fb01ad297.f3d 1 Bodies 2018-09-07 17:57:12.723776
+NO OCCURENCES!!! Going into "no_occurences()" fn.52cc9f1f-5889-4012-b4d8-4f4fb01ad297.f3d 2018-09-07 17:57:12.734804
+Assem File Completed 14 52cc9f1f-5889-4012-b4d8-4f4fb01ad297.f3d 2018-09-07 17:57:14.904839
+Jobs Completed.. 15 2018-09-07 17:57:15.471348
+Starting Job... 2018-09-07 17:58:58.492737
+Opening Assm file 0 52f5fb8e-3f23-4ffb-8050-6ffd68d0d732.f3d 2018-09-07 17:59:01.406804
+Extracting Data from Assm file 0 52f5fb8e-3f23-4ffb-8050-6ffd68d0d732.f3d 39 Bodies 2018-09-07 17:59:01.428890
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.52f5fb8e-3f23-4ffb-8050-6ffd68d0d732.f3d 2018-09-07 17:59:01.439911
+Assem File Completed 0 52f5fb8e-3f23-4ffb-8050-6ffd68d0d732.f3d 2018-09-07 18:00:07.605514
+Opening Assm file 1 52f85aee-f773-42f1-b7d6-acd50d01a408.f3d 2018-09-07 18:00:08.867298
+Extracting Data from Assm file 1 52f85aee-f773-42f1-b7d6-acd50d01a408.f3d 1 Bodies 2018-09-07 18:00:08.883355
+NO OCCURENCES!!! Going into "no_occurences()" fn.52f85aee-f773-42f1-b7d6-acd50d01a408.f3d 2018-09-07 18:00:08.894394
+Assem File Completed 1 52f85aee-f773-42f1-b7d6-acd50d01a408.f3d 2018-09-07 18:00:10.163839
+Opening Assm file 2 52fa6bd2-8aaf-45f9-8aab-c4a66c145d60.f3d 2018-09-07 18:00:12.150968
+Extracting Data from Assm file 2 52fa6bd2-8aaf-45f9-8aab-c4a66c145d60.f3d 3 Bodies 2018-09-07 18:00:12.172207
+NO OCCURENCES!!! Going into "no_occurences()" fn.52fa6bd2-8aaf-45f9-8aab-c4a66c145d60.f3d 2018-09-07 18:00:12.182234
+Assem File Completed 2 52fa6bd2-8aaf-45f9-8aab-c4a66c145d60.f3d 2018-09-07 18:00:21.846134
+Opening Assm file 3 53025cd3-9254-4cf4-bc6d-1e57507db2e7.f3d 2018-09-07 18:00:23.706289
+Extracting Data from Assm file 3 53025cd3-9254-4cf4-bc6d-1e57507db2e7.f3d 544 Bodies 2018-09-07 18:00:24.183559
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.53025cd3-9254-4cf4-bc6d-1e57507db2e7.f3d 2018-09-07 18:00:24.194589
+Assem File Completed 3 53025cd3-9254-4cf4-bc6d-1e57507db2e7.f3d 2018-09-07 18:12:59.347712
+
+
+Starting Job... 2018-09-13 10:33:48.129526
+Opening Assm file 0 53030dd9-6b14-4312-9ddd-c3704a0508a1.f3d 2018-09-13 10:33:49.334552
+Extracting Data from Assm file 0 53030dd9-6b14-4312-9ddd-c3704a0508a1.f3d 1 Bodies 2018-09-13 10:33:49.349592
+NO OCCURENCES!!! Going into "no_occurences()" fn.53030dd9-6b14-4312-9ddd-c3704a0508a1.f3d 2018-09-13 10:33:49.361643
+Assem File Completed 0 53030dd9-6b14-4312-9ddd-c3704a0508a1.f3d 2018-09-13 10:33:51.566332
+Opening Assm file 1 53048f90-bb81-4cad-8bbd-45e715259ba7.f3d 2018-09-13 10:33:52.670346
+Extracting Data from Assm file 1 53048f90-bb81-4cad-8bbd-45e715259ba7.f3d 1 Bodies 2018-09-13 10:33:52.687393
+NO OCCURENCES!!! Going into "no_occurences()" fn.53048f90-bb81-4cad-8bbd-45e715259ba7.f3d 2018-09-13 10:33:52.697421
+Assem File Completed 1 53048f90-bb81-4cad-8bbd-45e715259ba7.f3d 2018-09-13 10:33:54.341212
+Opening Assm file 2 532c8c60-84cd-4646-8464-a46b7e01d333.f3d 2018-09-13 10:33:55.649155
+Extracting Data from Assm file 2 532c8c60-84cd-4646-8464-a46b7e01d333.f3d 93 Bodies 2018-09-13 10:33:55.683438
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.532c8c60-84cd-4646-8464-a46b7e01d333.f3d 2018-09-13 10:33:55.695443
+Assem File Completed 2 532c8c60-84cd-4646-8464-a46b7e01d333.f3d 2018-09-13 10:35:36.633241
+Opening Assm file 3 5333ecde-c4bf-493a-8c2c-a449bc138004.f3d 2018-09-13 10:35:37.799620
+Extracting Data from Assm file 3 5333ecde-c4bf-493a-8c2c-a449bc138004.f3d 1 Bodies 2018-09-13 10:35:37.815663
+NO OCCURENCES!!! Going into "no_occurences()" fn.5333ecde-c4bf-493a-8c2c-a449bc138004.f3d 2018-09-13 10:35:37.826692
+Assem File Completed 3 5333ecde-c4bf-493a-8c2c-a449bc138004.f3d 2018-09-13 10:35:38.866182
+Opening Assm file 4 5344e7d3-e50d-4cd5-acbd-1715734cca00.f3d 2018-09-13 10:35:40.042544
+Extracting Data from Assm file 4 5344e7d3-e50d-4cd5-acbd-1715734cca00.f3d 1 Bodies 2018-09-13 10:35:40.058695
+NO OCCURENCES!!! Going into "no_occurences()" fn.5344e7d3-e50d-4cd5-acbd-1715734cca00.f3d 2018-09-13 10:35:40.069752
+Assem File Completed 4 5344e7d3-e50d-4cd5-acbd-1715734cca00.f3d 2018-09-13 10:35:43.793700
+Opening Assm file 5 534f4af4-3e6f-48af-8e93-382019ea3044.f3d 2018-09-13 10:35:45.052725
+Extracting Data from Assm file 5 534f4af4-3e6f-48af-8e93-382019ea3044.f3d 9 Bodies 2018-09-13 10:35:45.068875
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.534f4af4-3e6f-48af-8e93-382019ea3044.f3d 2018-09-13 10:35:45.078925
+Assem File Completed 5 534f4af4-3e6f-48af-8e93-382019ea3044.f3d 2018-09-13 10:35:54.893945
+Opening Assm file 6 5355cd4a-44d3-4438-a0b6-02c9ed3b61ea.f3d 2018-09-13 10:35:56.127148
+Extracting Data from Assm file 6 5355cd4a-44d3-4438-a0b6-02c9ed3b61ea.f3d 62 Bodies 2018-09-13 10:35:56.146471
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.5355cd4a-44d3-4438-a0b6-02c9ed3b61ea.f3d 2018-09-13 10:35:56.158504
+Assem File Completed 6 5355cd4a-44d3-4438-a0b6-02c9ed3b61ea.f3d 2018-09-13 10:37:02.898418
+
+Starting Job... 2018-09-13 10:39:34.059424
+Opening Assm file 0 5361232a-494a-48fa-a901-9c28fab957eb.f3d 2018-09-13 10:39:35.101293
+Extracting Data from Assm file 0 5361232a-494a-48fa-a901-9c28fab957eb.f3d 5 Bodies 2018-09-13 10:39:35.118338
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.5361232a-494a-48fa-a901-9c28fab957eb.f3d 2018-09-13 10:39:35.128395
+Assem File Completed 0 5361232a-494a-48fa-a901-9c28fab957eb.f3d 2018-09-13 10:39:41.427973
+Opening Assm file 1 536e9b82-54e0-4fba-9418-b2d784584253.f3d 2018-09-13 10:39:42.824948
+Extracting Data from Assm file 1 536e9b82-54e0-4fba-9418-b2d784584253.f3d 2 Bodies 2018-09-13 10:39:42.841042
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.536e9b82-54e0-4fba-9418-b2d784584253.f3d 2018-09-13 10:39:42.853070
+Assem File Completed 1 536e9b82-54e0-4fba-9418-b2d784584253.f3d 2018-09-13 10:39:48.636060
+Opening Assm file 2 538fd065-fbb5-4d20-b7ff-2f9e9f16e463.f3d 2018-09-13 10:39:49.894493
+Extracting Data from Assm file 2 538fd065-fbb5-4d20-b7ff-2f9e9f16e463.f3d 39 Bodies 2018-09-13 10:39:49.910560
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.538fd065-fbb5-4d20-b7ff-2f9e9f16e463.f3d 2018-09-13 10:39:49.921590
+Assem File Completed 2 538fd065-fbb5-4d20-b7ff-2f9e9f16e463.f3d 2018-09-13 10:40:31.049803
+Opening Assm file 3 539b19ed-58f9-4186-81d7-cc64bbfec6fc.f3d 2018-09-13 10:40:32.324404
+Extracting Data from Assm file 3 539b19ed-58f9-4186-81d7-cc64bbfec6fc.f3d 2 Bodies 2018-09-13 10:40:32.339004
+NO OCCURENCES!!! Going into "no_occurences()" fn.539b19ed-58f9-4186-81d7-cc64bbfec6fc.f3d 2018-09-13 10:40:32.349006
+Assem File Completed 3 539b19ed-58f9-4186-81d7-cc64bbfec6fc.f3d 2018-09-13 10:40:36.334857
+Opening Assm file 4 539dfa53-ea3a-481d-ac5f-c24183352a34.f3d 2018-09-13 10:40:37.370689
+Extracting Data from Assm file 4 539dfa53-ea3a-481d-ac5f-c24183352a34.f3d 2 Bodies 2018-09-13 10:40:37.388738
+NO OCCURENCES!!! Going into "no_occurences()" fn.539dfa53-ea3a-481d-ac5f-c24183352a34.f3d 2018-09-13 10:40:37.400800
+Assem File Completed 4 539dfa53-ea3a-481d-ac5f-c24183352a34.f3d 2018-09-13 10:40:40.011075
+Opening Assm file 5 53b7d40a-7141-4bfa-a9d3-b69bd0fa959b.f3d 2018-09-13 10:40:41.073603
+Extracting Data from Assm file 5 53b7d40a-7141-4bfa-a9d3-b69bd0fa959b.f3d 1 Bodies 2018-09-13 10:40:41.091701
+NO OCCURENCES!!! Going into "no_occurences()" fn.53b7d40a-7141-4bfa-a9d3-b69bd0fa959b.f3d 2018-09-13 10:40:41.105712
+Assem File Completed 5 53b7d40a-7141-4bfa-a9d3-b69bd0fa959b.f3d 2018-09-13 10:40:42.219799
+Opening Assm file 6 53c5e259-5d66-440d-83ed-f085151baf37.f3d 2018-09-13 10:40:43.279258
+Extracting Data from Assm file 6 53c5e259-5d66-440d-83ed-f085151baf37.f3d 1 Bodies 2018-09-13 10:40:43.297333
+NO OCCURENCES!!! Going into "no_occurences()" fn.53c5e259-5d66-440d-83ed-f085151baf37.f3d 2018-09-13 10:40:43.311367
+Assem File Completed 6 53c5e259-5d66-440d-83ed-f085151baf37.f3d 2018-09-13 10:40:44.449845
+Opening Assm file 7 53e007bc-3dea-42d1-8eb0-699555dea475.f3d 2018-09-13 10:40:45.517036
+Extracting Data from Assm file 7 53e007bc-3dea-42d1-8eb0-699555dea475.f3d 1 Bodies 2018-09-13 10:40:45.527094
+NO OCCURENCES!!! Going into "no_occurences()" fn.53e007bc-3dea-42d1-8eb0-699555dea475.f3d 2018-09-13 10:40:45.541604
+Assem File Completed 7 53e007bc-3dea-42d1-8eb0-699555dea475.f3d 2018-09-13 10:40:46.676295
+Opening Assm file 8 53e5bf68-cfa9-426c-988e-ffe81df038bb.f3d 2018-09-13 10:40:48.432533
+Extracting Data from Assm file 8 53e5bf68-cfa9-426c-988e-ffe81df038bb.f3d 1 Bodies 2018-09-13 10:40:48.454097
+NO OCCURENCES!!! Going into "no_occurences()" fn.53e5bf68-cfa9-426c-988e-ffe81df038bb.f3d 2018-09-13 10:40:48.468219
+Assem File Completed 8 53e5bf68-cfa9-426c-988e-ffe81df038bb.f3d 2018-09-13 10:40:56.627084
+Opening Assm file 9 54014edc-ad5f-41db-8255-1752b81c9b9d.f3d 2018-09-13 10:40:57.822123
+Extracting Data from Assm file 9 54014edc-ad5f-41db-8255-1752b81c9b9d.f3d 11 Bodies 2018-09-13 10:40:57.833154
+NO OCCURENCES!!! Going into "no_occurences()" fn.54014edc-ad5f-41db-8255-1752b81c9b9d.f3d 2018-09-13 10:40:57.845223
+Assem File Completed 9 54014edc-ad5f-41db-8255-1752b81c9b9d.f3d 2018-09-13 10:41:11.539960
+Opening Assm file 10 540e8a04-36e5-4628-9d74-fcb38d18607e.f3d 2018-09-13 10:41:12.610622
+Extracting Data from Assm file 10 540e8a04-36e5-4628-9d74-fcb38d18607e.f3d 1 Bodies 2018-09-13 10:41:12.636912
+NO OCCURENCES!!! Going into "no_occurences()" fn.540e8a04-36e5-4628-9d74-fcb38d18607e.f3d 2018-09-13 10:41:12.648942
+Assem File Completed 10 540e8a04-36e5-4628-9d74-fcb38d18607e.f3d 2018-09-13 10:41:14.132863
+Opening Assm file 11 540fd3a6-2b92-415e-a550-9ff86b0b40de.f3d 2018-09-13 10:41:18.998508
+Extracting Data from Assm file 11 540fd3a6-2b92-415e-a550-9ff86b0b40de.f3d 431 Bodies 2018-09-13 10:41:19.112522
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.540fd3a6-2b92-415e-a550-9ff86b0b40de.f3d 2018-09-13 10:41:19.136318
+Assem File Completed 11 540fd3a6-2b92-415e-a550-9ff86b0b40de.f3d 2018-09-13 10:54:26.746141
+Opening Assm file 12 5414a6b4-54e8-4d39-a4fe-a2e963a27a81.f3d 2018-09-13 10:54:31.746473
+Extracting Data from Assm file 12 5414a6b4-54e8-4d39-a4fe-a2e963a27a81.f3d 911 Bodies 2018-09-13 10:54:31.765051
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.5414a6b4-54e8-4d39-a4fe-a2e963a27a81.f3d 2018-09-13 10:54:31.776560
+Assem File Completed 12 5414a6b4-54e8-4d39-a4fe-a2e963a27a81.f3d 2018-09-13 11:24:33.226785
+Opening Assm file 13 54243d6b-2bc1-4ea9-94c6-aabd70cb449c.f3d 2018-09-13 11:24:36.482492
+Extracting Data from Assm file 13 54243d6b-2bc1-4ea9-94c6-aabd70cb449c.f3d 11 Bodies 2018-09-13 11:24:36.500072
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.54243d6b-2bc1-4ea9-94c6-aabd70cb449c.f3d 2018-09-13 11:24:36.511098
+Assem File Completed 13 54243d6b-2bc1-4ea9-94c6-aabd70cb449c.f3d 2018-09-13 11:25:16.590250
+Opening Assm file 14 54286c5a-aeb1-4f5f-87f0-cac25ca3568e.f3d 2018-09-13 11:25:19.074030
+Extracting Data from Assm file 14 54286c5a-aeb1-4f5f-87f0-cac25ca3568e.f3d 8 Bodies 2018-09-13 11:25:19.091076
+NO OCCURENCES!!! Going into "no_occurences()" fn.54286c5a-aeb1-4f5f-87f0-cac25ca3568e.f3d 2018-09-13 11:25:19.103129
+Assem File Completed 14 54286c5a-aeb1-4f5f-87f0-cac25ca3568e.f3d 2018-09-13 11:25:41.068810
+Jobs Completed.. 15 2018-09-13 11:25:41.906384
+
+Starting Job... 2018-09-13 11:36:07.903692
+Opening Assm file 0 544434c3-ca35-448f-bbd9-954c96c51658.f3d 2018-09-13 11:36:09.277227
+Extracting Data from Assm file 0 544434c3-ca35-448f-bbd9-954c96c51658.f3d 4 Bodies 2018-09-13 11:36:09.293291
+NO OCCURENCES!!! Going into "no_occurences()" fn.544434c3-ca35-448f-bbd9-954c96c51658.f3d 2018-09-13 11:36:09.304347
+Assem File Completed 0 544434c3-ca35-448f-bbd9-954c96c51658.f3d 2018-09-13 11:36:16.431606
+Opening Assm file 1 547d8cc1-8c56-40f5-bc39-9e32bca53c4d.f3d 2018-09-13 11:36:17.515768
+Extracting Data from Assm file 1 547d8cc1-8c56-40f5-bc39-9e32bca53c4d.f3d 1 Bodies 2018-09-13 11:36:17.531420
+NO OCCURENCES!!! Going into "no_occurences()" fn.547d8cc1-8c56-40f5-bc39-9e32bca53c4d.f3d 2018-09-13 11:36:17.542462
+Assem File Completed 1 547d8cc1-8c56-40f5-bc39-9e32bca53c4d.f3d 2018-09-13 11:36:19.011407
+Opening Assm file 2 5489f135-3238-4f84-91ad-f444d5da5cef.f3d 2018-09-13 11:36:20.229406
+Extracting Data from Assm file 2 5489f135-3238-4f84-91ad-f444d5da5cef.f3d 1 Bodies 2018-09-13 11:36:20.239936
+NO OCCURENCES!!! Going into "no_occurences()" fn.5489f135-3238-4f84-91ad-f444d5da5cef.f3d 2018-09-13 11:36:20.251994
+Assem File Completed 2 5489f135-3238-4f84-91ad-f444d5da5cef.f3d 2018-09-13 11:36:22.690737
+Opening Assm file 3 548fd323-7af6-4cbc-8a54-146a1eac354c.f3d 2018-09-13 11:36:24.136682
+Extracting Data from Assm file 3 548fd323-7af6-4cbc-8a54-146a1eac354c.f3d 5 Bodies 2018-09-13 11:36:24.152747
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.548fd323-7af6-4cbc-8a54-146a1eac354c.f3d 2018-09-13 11:36:24.162800
+Assem File Completed 3 548fd323-7af6-4cbc-8a54-146a1eac354c.f3d 2018-09-13 11:36:31.251267
+Opening Assm file 4 549719e8-a9c2-4d16-b67d-6648207db7c3.f3d 2018-09-13 11:36:36.128893
+Extracting Data from Assm file 4 549719e8-a9c2-4d16-b67d-6648207db7c3.f3d 1730 Bodies 2018-09-13 11:36:37.430798
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.549719e8-a9c2-4d16-b67d-6648207db7c3.f3d 2018-09-13 11:36:37.442831
+Assem File Completed 4 549719e8-a9c2-4d16-b67d-6648207db7c3.f3d 2018-09-13 12:40:07.224543
+Jobs Completed.. 4 2018-09-13 12:40:08.25648
+
+Starting Job... 2018-09-13 13:18:34.825891
+Opening Assm file 0 54ba1c8c-a3d9-45f2-b6a1-16ec927f2e3f.f3d 2018-09-13 13:18:37.961974
+Extracting Data from Assm file 0 54ba1c8c-a3d9-45f2-b6a1-16ec927f2e3f.f3d 203 Bodies 2018-09-13 13:18:37.979518
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.54ba1c8c-a3d9-45f2-b6a1-16ec927f2e3f.f3d 2018-09-13 13:18:37.989545
+Assem File Completed 0 54ba1c8c-a3d9-45f2-b6a1-16ec927f2e3f.f3d 2018-09-13 13:23:59.179774
+Opening Assm file 1 54d495cc-23bc-4273-a04c-ab0c50e04b3a.f3d 2018-09-13 13:24:00.531872
+Extracting Data from Assm file 1 54d495cc-23bc-4273-a04c-ab0c50e04b3a.f3d 1 Bodies 2018-09-13 13:24:00.543412
+NO OCCURENCES!!! Going into "no_occurences()" fn.54d495cc-23bc-4273-a04c-ab0c50e04b3a.f3d 2018-09-13 13:24:00.557921
+Assem File Completed 1 54d495cc-23bc-4273-a04c-ab0c50e04b3a.f3d 2018-09-13 13:24:02.114591
+Opening Assm file 2 54f23b13-bc7d-4aa8-83d0-79fabaa71993.f3d 2018-09-13 13:24:03.634742
+Extracting Data from Assm file 2 54f23b13-bc7d-4aa8-83d0-79fabaa71993.f3d 1 Bodies 2018-09-13 13:24:03.654970
+NO OCCURENCES!!! Going into "no_occurences()" fn.54f23b13-bc7d-4aa8-83d0-79fabaa71993.f3d 2018-09-13 13:24:03.664025
+Assem File Completed 2 54f23b13-bc7d-4aa8-83d0-79fabaa71993.f3d 2018-09-13 13:24:13.045262
+Opening Assm file 3 550244de-1a68-430a-a500-cc591af23da0.f3d 2018-09-13 13:24:14.919122
+Extracting Data from Assm file 3 550244de-1a68-430a-a500-cc591af23da0.f3d 520 Bodies 2018-09-13 13:24:15.001166
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.550244de-1a68-430a-a500-cc591af23da0.f3d 2018-09-13 13:24:15.017343
+Assem File Completed 3 550244de-1a68-430a-a500-cc591af23da0.f3d 2018-09-13 13:45:35.649622
+Opening Assm file 4 551430ef-461b-46c0-8234-d8665c6a9b00.f3d 2018-09-13 13:45:37.255943
+Extracting Data from Assm file 4 551430ef-461b-46c0-8234-d8665c6a9b00.f3d 4 Bodies 2018-09-13 13:45:37.272005
+NO OCCURENCES!!! Going into "no_occurences()" fn.551430ef-461b-46c0-8234-d8665c6a9b00.f3d 2018-09-13 13:45:37.284037
+Assem File Completed 4 551430ef-461b-46c0-8234-d8665c6a9b00.f3d 2018-09-13 13:45:44.656219
+Opening Assm file 5 552525c7-1151-4ab9-8697-5c9ee1bbdcad.f3d 2018-09-13 13:45:46.169405
+Extracting Data from Assm file 5 552525c7-1151-4ab9-8697-5c9ee1bbdcad.f3d 1 Bodies 2018-09-13 13:45:46.180434
+NO OCCURENCES!!! Going into "no_occurences()" fn.552525c7-1151-4ab9-8697-5c9ee1bbdcad.f3d 2018-09-13 13:45:46.192466
+Assem File Completed 5 552525c7-1151-4ab9-8697-5c9ee1bbdcad.f3d 2018-09-13 13:45:48.322250
+Opening Assm file 6 5529a97b-c040-45f8-80bc-4f80dcf1f803.f3d 2018-09-13 13:45:49.712361
+Extracting Data from Assm file 6 5529a97b-c040-45f8-80bc-4f80dcf1f803.f3d 1 Bodies 2018-09-13 13:45:49.727413
+NO OCCURENCES!!! Going into "no_occurences()" fn.5529a97b-c040-45f8-80bc-4f80dcf1f803.f3d 2018-09-13 13:45:49.738455
+Assem File Completed 6 5529a97b-c040-45f8-80bc-4f80dcf1f803.f3d 2018-09-13 13:45:51.658008
+Opening Assm file 7 553ff763-9929-485e-a743-bf87bfa976a4.f3d 2018-09-13 13:45:53.291437
+Extracting Data from Assm file 7 553ff763-9929-485e-a743-bf87bfa976a4.f3d 1 Bodies 2018-09-13 13:45:53.308012
+NO OCCURENCES!!! Going into "no_occurences()" fn.553ff763-9929-485e-a743-bf87bfa976a4.f3d 2018-09-13 13:45:53.319574
+Assem File Completed 7 553ff763-9929-485e-a743-bf87bfa976a4.f3d 2018-09-13 13:45:55.843556
+Opening Assm file 8 5545bdb9-bcdc-4432-97be-442a1ed417b1.f3d 2018-09-13 13:45:57.263909
+Extracting Data from Assm file 8 5545bdb9-bcdc-4432-97be-442a1ed417b1.f3d 5 Bodies 2018-09-13 13:45:57.279980
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.5545bdb9-bcdc-4432-97be-442a1ed417b1.f3d 2018-09-13 13:45:57.291984
+Assem File Completed 8 5545bdb9-bcdc-4432-97be-442a1ed417b1.f3d 2018-09-13 13:46:07.330922
+Opening Assm file 9 556bbc55-40cb-4965-ab60-128f2802ea4a.f3d 2018-09-13 13:46:09.090818
+Extracting Data from Assm file 9 556bbc55-40cb-4965-ab60-128f2802ea4a.f3d 26 Bodies 2018-09-13 13:46:09.108867
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.556bbc55-40cb-4965-ab60-128f2802ea4a.f3d 2018-09-13 13:46:09.118893
+Assem File Completed 9 556bbc55-40cb-4965-ab60-128f2802ea4a.f3d 2018-09-13 13:47:03.609283
+Opening Assm file 10 55994103-2c34-4850-8770-8602c8667dbc.f3d 2018-09-13 13:47:05.194918
+Extracting Data from Assm file 10 55994103-2c34-4850-8770-8602c8667dbc.f3d 32 Bodies 2018-09-13 13:47:05.213116
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.55994103-2c34-4850-8770-8602c8667dbc.f3d 2018-09-13 13:47:05.225156
+Assem File Completed 10 55994103-2c34-4850-8770-8602c8667dbc.f3d 2018-09-13 13:48:05.040747
+Opening Assm file 11 55a48af0-f440-4e78-897d-a67d6a07abab.f3d 2018-09-13 13:48:07.198237
+Extracting Data from Assm file 11 55a48af0-f440-4e78-897d-a67d6a07abab.f3d 136 Bodies 2018-09-13 13:48:07.222624
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.55a48af0-f440-4e78-897d-a67d6a07abab.f3d 2018-09-13 13:48:07.237686
+Assem File Completed 11 55a48af0-f440-4e78-897d-a67d6a07abab.f3d 2018-09-13 13:52:54.068373
+Opening Assm file 12 55aa52f6-8514-4f70-be48-344497244022.f3d 2018-09-13 13:52:55.927439
+Extracting Data from Assm file 12 55aa52f6-8514-4f70-be48-344497244022.f3d 1 Bodies 2018-09-13 13:52:55.944532
+NO OCCURENCES!!! Going into "no_occurences()" fn.55aa52f6-8514-4f70-be48-344497244022.f3d 2018-09-13 13:52:55.955538
+Assem File Completed 12 55aa52f6-8514-4f70-be48-344497244022.f3d 2018-09-13 13:52:58.152671
+Opening Assm file 13 55b01fb8-62a0-4280-a1df-f22f98da9849.f3d 2018-09-13 13:53:01.434584
+Extracting Data from Assm file 13 55b01fb8-62a0-4280-a1df-f22f98da9849.f3d 27 Bodies 2018-09-13 13:53:01.451636
+MULTIPLE OCCURENCES EXIST!!! Going into "traverseAssembly()" Recursion fn.55b01fb8-62a0-4280-a1df-f22f98da9849.f3d 2018-09-13 13:53:01.463685
+Assem File Completed 13 55b01fb8-62a0-4280-a1df-f22f98da9849.f3d 2018-09-13 13:54:14.471246
+Opening Assm file 14 55c29a3a-e89f-4225-8150-b746e41f46e7.f3d 2018-09-13 13:54:16.295213
+Extracting Data from Assm file 14 55c29a3a-e89f-4225-8150-b746e41f46e7.f3d 1 Bodies 2018-09-13 13:54:16.311665
+NO OCCURENCES!!! Going into "no_occurences()" fn.55c29a3a-e89f-4225-8150-b746e41f46e7.f3d 2018-09-13 13:54:16.323698
+Assem File Completed 14 55c29a3a-e89f-4225-8150-b746e41f46e7.f3d 2018-09-13 13:54:18.592768
+Jobs Completed.. 15 2018-09-13 13:54:19.037768
