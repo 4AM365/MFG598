@@ -1,0 +1,43 @@
+	1) Must read files or use databases
+	2) Must involve Numpy, Pandas, or Scipy
+	3) Must involve visualization
+	4) Add a learning component
+
+4MIN VIDEO:
+	1) Explain the problem and dataset
+	2) Explain the desired output and what the code affects
+	3) Demonstrate the program
+	4) Explain unique features
+
+Data Exploration and Pattern Recognition of Serious Vehicle Crashes
+
+Original project specific to rental-fleet and employer
+Lots of time
+Risk: New programs
+    Never used SpeedML before
+    
+Code org and explanation
+Show solution generation
+
+Problem definition:
+	All modern vehicles are equipped with an event data recorder (EDR) which continuously records operating parameters of the vehicle, including items like accelerator application, steering angle, brake line pressure, and more.
+
+	When a vehicle experiences an acceleration event exceeding 2G such as a crash, the preceding 5-10 seconds are saved and can be later retrieved.
+	
+	To date, no known effort has been made to explore the dataset of driver actions prior to a crash.
+	
+	A multifaceted project was undertaken to create a framework for continuously ingesting pre-crash and peri-crash data, then extracting insights from this information.
+	
+	The project involves several phases typical of a data science project.
+		1) Ingestion
+		2) Cleaning of data
+		3) Exploratory analysis
+		4) Model planning
+		5) Model building
+		6) Model execution
+		7) Communication
+	
+	1) In the ingestion phase, thousands of .CDRx files must be opened in proprietary software and then data must be exported by that software in csv form.
+
+        Alternately, existing .pdf data can be scraped if the process cannot be effectively automated.
+
