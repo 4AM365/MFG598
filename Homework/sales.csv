@@ -1,0 +1,39 @@
+Region,Country,Location,Item Type,Sales Channel,Order Priority,Order Date,Order ID,Ship Date,Units Sold,Unit Price,Unit Cost,Total Revenue,Total Cost,Total Profit
+North America,United States of America,"Philadelphia, PA",Office Supplies,Online,L,5/22/2010,335763490,7/4/2010,8733,651.21,524.96,5687016.93,4584475.68,1102541.25
+North America,United States of America,"St. Louis, MO",Cereal,Offline,M,6/22/2012,997329699,7/15/2012,876,205.7,117.11,180193.2,102588.36,77604.84
+North America,United States of America,"Raleigh, NC",Household,Offline,M,1/9/2016,348996007,1/12/2016,4529,668.27,502.54,3026594.83,2276003.66,750591.17
+North America,United States of America,"Goodyear, AZ",Vegetables,Offline,H,5/12/2010,803414571,6/19/2010,7080,154.06,90.93,1090744.8,643784.4,446960.4
+North America,United States of America,"Ausstin, TX",Snacks,Online,C,6/27/2010,324235141,7/12/2010,7238,152.58,97.44,1104374.04,705270.72,399103.32
+North America,United States of America,"Boston, MA",Baby Food,Offline,C,4/8/2015,474717366,4/14/2015,8273,255.28,159.42,2111931.44,1318881.66,793049.78
+North America,United States of America,"Gainesville, FL",Fruits,Online,M,12/9/2014,158660447,1/9/2015,7,9.33,6.92,65.31,48.44,16.87
+North America,United States of America,"New York City, NY",Beverages,Offline,C,7/25/2012,807430589,7/30/2012,5509,47.45,31.79,261402.05,175131.11,86270.94
+North America,United States of America,"Trenton, NJ",Fruits,Online,M,3/12/2017,258436477,4/20/2017,5951,9.33,6.92,55522.83,41180.92,14341.91
+North America,United States of America,"Boston, MA",Office Supplies,Online,M,9/10/2013,296289527,10/14/2013,7510,651.21,524.96,4890587.1,3942449.6,948137.5
+North America,United States of America,"Blacksburg, VA",Baby Food,Offline,H,9/12/2013,474660289,10/6/2013,1382,255.28,159.42,352796.96,220318.44,132478.52
+North America,United States of America,"Los Angeles, CA",Personal Care,Offline,L,8/16/2016,444854724,8/26/2016,1253,81.73,56.67,102407.69,71007.51,31400.18
+North America,United States of America,"Seattle, WA",Cereal,Offline,M,10/21/2015,577579438,11/30/2015,7446,205.7,117.11,1531642.2,872001.06,659641.14
+North America,United States of America,"Portland, OR",Clothes,Offline,H,1/7/2011,292413842,1/26/2011,609,109.28,35.84,66551.52,21826.56,44724.96
+North America,United States of America,"Oklahoma City, OK",Cereal,Online,C,7/28/2013,910152328,9/3/2013,3154,205.7,117.11,648777.8,369364.94,279412.86
+North America,United States of America,"Norman, OK",Household,Offline,H,12/9/2013,171612298,1/14/2014,2747,668.27,502.54,1835737.69,1380477.38,455260.31
+North America,United States of America,"Dallas, TX",Beverages,Online,H,12/21/2015,737418496,1/17/2016,7375,47.45,31.79,349943.75,234451.25,115492.5
+North America,United States of America,"Tempe, AZ",Meat,Online,C,6/6/2010,534286868,7/25/2010,6212,421.89,364.69,2620780.68,2265454.28,355326.4
+North America,United States of America,"Tampa, FL",Beverages,Offline,M,9/24/2011,317668235,11/7/2011,3945,47.45,31.79,187190.25,125411.55,61778.7
+North America,United States of America,"Miami, FL",Personal Care,Offline,H,11/18/2016,236423909,12/28/2016,1943,81.73,56.67,158801.39,110109.81,48691.58
+North America,United States of America,"Chicago, IL",Household,Offline,C,12/25/2011,371361768,1/30/2012,3054,668.27,502.54,2040896.58,1534757.16,506139.42
+North America,United States of America,"Ann Arbor, MI",Snacks,Online,H,8/9/2013,533497226,8/19/2013,2539,152.58,97.44,387400.62,247400.16,140000.46
+North America,United States of America,"Salt Lake City, UT",Cereal,Online,L,6/22/2015,436272084,6/28/2015,1460,205.7,117.11,300322,170980.6,129341.4
+North America,United States of America,"Boise, ID",Beverages,Offline,C,11/12/2012,294330871,12/16/2012,7900,47.45,31.79,374855,251141,123714
+North America,United States of America,"Pittsburgh, PA",Personal Care,Online,C,9/30/2010,822044980,10/9/2010,232,81.73,56.67,18961.36,13147.44,5813.92
+North America,United States of America,"Allentown, PA",Meat,Offline,M,12/22/2013,607582414,1/30/2014,5993,421.89,364.69,2528386.77,2185587.17,342799.6
+North America,United States of America,"New Bern, NC",Beverages,Online,H,6/27/2013,291047418,7/20/2013,6253,47.45,31.79,296704.85,198782.87,97921.98
+North America,United States of America,"Charleston, SC",Office Supplies,Offline,C,5/10/2015,919072711,6/7/2015,2894,651.21,524.96,1884601.74,1519234.24,365367.5
+North America,United States of America,"El Paso, TX",Fruits,Online,H,3/6/2014,831261479,3/8/2014,7599,9.33,6.92,70898.67,52585.08,18313.59
+North America,United States of America,"Reno, NV",Cosmetics,Online,L,8/20/2011,198134410,9/29/2011,1230,437.2,263.33,537756,323895.9,213860.1
+North America,United States of America,"San Francisco, CA",Household,Online,H,10/7/2014,217258346,11/23/2014,427,668.27,502.54,285351.29,214584.58,70766.71
+North America,United States of America,"San Diego, CA",Cosmetics,Offline,H,7/4/2016,158717525,7/17/2016,6897,437.2,263.33,3015368.4,1816187.01,1199181.39
+North America,United States of America,"Mesa, AZ",Personal Care,Offline,L,11/21/2011,120765769,1/10/2012,6130,81.73,56.67,501004.9,347387.1,153617.8
+North America,United States of America,"Daytona Beach, FL",Baby Food,Offline,H,5/26/2017,482115542,5/28/2017,7558,255.28,159.42,1929406.24,1204896.36,724509.88
+North America,United States of America,"Henderson, NC",Fruits,Online,L,12/23/2013,104390132,1/23/2014,215,9.33,6.92,2005.95,1487.8,518.15
+North America,United States of America,"Nashville, TN",Household,Online,L,4/30/2015,617785966,5/5/2015,5451,668.27,502.54,3642739.77,2739345.54,903394.23
+North America,United States of America,"Bergenfield, NJ",Office Supplies,Offline,L,1/13/2015,321881663,2/28/2015,792,651.21,524.96,515758.32,415768.32,99990
+North America,United States of America,"Columbus, OH",Snacks,Online,M,6/30/2010,768351447,7/17/2010,1123,152.58,97.44,171347.34,109425.12,61922.22
