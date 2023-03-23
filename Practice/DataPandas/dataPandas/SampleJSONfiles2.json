@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "userId": 7,
+      "firstName": "Bruce",
+      "lastName": "Wayne",
+      "phoneNumber": "12900943",
+      "emailAddress": "bwayne@asu.edu"
+    },
+    {
+      "userId": 8,
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "phoneNumber": "1293456",
+      "emailAddress": "pparker@asu.edu"
+    },
+    {
+      "userId": 9,
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "phoneNumber": "1293456",
+      "emailAddress": "pparker@asu.edu"
+    }
+  ]
+}

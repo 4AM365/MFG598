@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "firstName": "Binil",
+      "lastName": "Starly",
+      "phoneNumber": "123456",
+      "emailAddress": "bstarly@asu.edu"
+    },
+    {
+      "userId": 2,
+      "firstName": "Julie",
+      "lastName": "Swann",
+      "phoneNumber": "1293933456",
+      "emailAddress": "jswann@asu.edu"
+    },
+    {
+      "userId": 3,
+      "firstName": "Katniss",
+      "lastName": "Everdeen",
+      "phoneNumber": "3939302",
+      "emailAddress": "kniss@asu.edu"
+    },
+    {
+      "userId": 4,
+      "firstName": "Ethan",
+      "lastName": "Hunt",
+      "phoneNumber": "22940222",
+      "emailAddress": "ehuntAwesome@asu.edu"
+    },
+    {
+      "userId": 5,
+      "firstName": "Princess",
+      "lastName": "Leia",
+      "phoneNumber": "1311111111",
+      "emailAddress": "princessLeia@asu.edu"
+    }
+  ]
+}
