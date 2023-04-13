@@ -11,3 +11,5 @@ for root, dirs, files in os.walk(raw_data_path):
             if os.path.exists(csv_filepath) and filename not in scanned_file_list:
                 file_staging_list.append(filename)
                 print(f'New file detected: {os.path.join(root, filename)}')
+
+print(file_staging_list)
