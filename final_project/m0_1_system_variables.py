@@ -2,7 +2,7 @@
 
 import os
 
-raw_data_path = 'H:\LOSS1\EDR\Downloaded Files'
+raw_data_path = r'H:\LOSS1\EDR\Downloaded Files'
 
 bins = 10
 
