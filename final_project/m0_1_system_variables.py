@@ -13,3 +13,5 @@ scanned_file_list = []
 
 #This is a 'to-do' for files that need to be converted.
 file_staging_list = []
+
+complete_file_list = []
