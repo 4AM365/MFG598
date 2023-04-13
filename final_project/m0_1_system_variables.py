@@ -6,7 +6,7 @@ raw_data_path = 'H:\LOSS1\EDR\Downloaded Files'
 
 bins = 10
 
-bosch_filepath = os.path.join('C:', 'Program Files (x86)', 'Bosch', 'Crash Data Retrieval', 'CDR.EXE')
+bosch_filepath = r'C:\Program Files (x86)\Bosch\Crash Data Retrieval\CDR.EXE'
 
 #This is the list of files that have already been imported into the system.
 scanned_file_list = []

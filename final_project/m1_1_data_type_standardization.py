@@ -2,9 +2,13 @@ import pyautogui
 
 import psutil
 
-import subprocess
+import sys
 
 from m0_1_system_variables import bosch_filepath
+
+'''
+This section of code checks if the program is open.
+'''
 
 def check_process(process_name):
     """Check if a process is running on Windows"""
@@ -12,11 +16,12 @@ def check_process(process_name):
         if proc.info['name'] == process_name:
             return True
     return False
+    sys.exit(1)
 
 # Check if 'cdr.exe' is running
 if check_process('CDR.EXE'):
     print('CDR.EXE is running.')
 else:
-    subprocess.Popen(['"' + bosch_filepath + '"'])
-    
+    print(f'Open CDR.EXE from {bosch_filepath}')
+
 
