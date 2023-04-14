@@ -1,5 +1,6 @@
 import os
 from m0_1_system_variables import raw_data_path
+import pandas as pd
 
 
 #This block of code creates a list of paths to cdrx files which do not have an accompanying .CSV file. 
@@ -22,6 +23,15 @@ for root, dirs, files in os.walk(raw_data_path):
                                 #Updating this to raw string for 'cleanliness' and resilience. This prevents any need to escape the backslashes.
                                 unaccompanied_cdrx_path_list.append(r"{0}\{1}".format(root, filename))
 
-with open("unaccompanied_cdrx_path_list.csv", "w") as file:
-    for record in unaccompanied_cdrx_path_list:
-        file.write(record + "\n")
+
+
+dfs = []
+
+for file_path in unaccompanied_cdrx_path_list:
+
+        df = pd.DataFrame({'value': [file_path]})
+
+        # Append the DataFrame to the list of DataFrames
+        dfs.append(df)
+# Combine the list of DataFrames into a single DataFrame
+combined_df = pd.concat(dfs, ignore_index=True)
