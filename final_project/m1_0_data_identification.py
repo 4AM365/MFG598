@@ -21,3 +21,7 @@ for root, dirs, files in os.walk(raw_data_path):
                                 # unaccompanied_cdrx_path_list.append(os.path.join(root, filename))
                                 #Updating this to raw string for 'cleanliness' and resilience. This prevents any need to escape the backslashes.
                                 unaccompanied_cdrx_path_list.append(r"{0}\{1}".format(root, filename))
+
+with open("unaccompanied_cdrx_path_list.csv", "w") as file:
+    for record in unaccompanied_cdrx_path_list:
+        file.write(record + "\n")
