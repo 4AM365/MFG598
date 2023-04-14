@@ -18,5 +18,7 @@ for root, dirs, files in os.walk(raw_data_path):
                         # The record is saved as the vehicle's VIN, but successive records bearing the same name are placed in different directories.  
                         # Considering the filepath as part of the record's 'identity' will ensure that these edge cases are accommodated.
 
-                            unaccompanied_cdrx_path_list.append(os.path.join(root, filename))
+                                # unaccompanied_cdrx_path_list.append(os.path.join(root, filename))
+                                #Updating this to raw string for 'cleanliness' and resilience.
+                                unaccompanied_cdrx_path_list.append(r"{0}\{1}".format(root, filename))
 
