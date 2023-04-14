@@ -1,18 +1,13 @@
 import os
-# from m0_1_system_variables import raw_data_path, scanned_file_list, file_staging_list
-from m0_1_system_variables import scanned_file_list, file_staging_list
+from m0_1_system_variables import raw_data_path, scanned_file_list, file_staging_list, cdrx_path_list
 
-raw_data_path = r'H:\LOSS1\EDR\Downloaded Files'
 
+file_count = 0
 for root, dirs, files in os.walk(raw_data_path):
-    for filename in files:
-        if filename.endswith('.cdrx'):
-            # Check for the presence of a .csv file with the same name
-            csv_filename = os.path.splitext(filename)[0] + ".csv"
-            csv_filepath = os.path.join(root, csv_filename)
+        for filename in files:
+                if filename.lower().endswith('cdrx'):     
+                        # os.path.join is performed to handle the case of one vehicle having multiple records. 
+                        # The record is saved as the vehicle's VIN, but successive records bearing the same name are placed in different directories.  
+                        # Considering the filepath as part of the record's 'identity' will ensure that these edge cases are accommodated.
+                        cdrx_path_list.append(os.path.join(root, filename))
 
-            if os.path.exists(csv_filepath) and filename not in scanned_file_list:
-                file_staging_list.append(filename)
-                print(f'New file detected: {os.path.join(root, filename)}')
-
-print(file_staging_list) 

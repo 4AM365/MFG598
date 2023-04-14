@@ -1,5 +1,4 @@
 #NTFS database of source files
-
 import os
 
 raw_data_path = r'H:\LOSS1\EDR\Downloaded Files'
@@ -15,3 +14,9 @@ scanned_file_list = []
 file_staging_list = []
 
 complete_file_list = []
+
+complete_path_list = []
+
+cdrx_path_list = []
+
+unaccompanied_cdrx_path_list = []
