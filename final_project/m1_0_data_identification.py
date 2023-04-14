@@ -19,6 +19,5 @@ for root, dirs, files in os.walk(raw_data_path):
                         # Considering the filepath as part of the record's 'identity' will ensure that these edge cases are accommodated.
 
                                 # unaccompanied_cdrx_path_list.append(os.path.join(root, filename))
-                                #Updating this to raw string for 'cleanliness' and resilience.
+                                #Updating this to raw string for 'cleanliness' and resilience. This prevents any need to escape the backslashes.
                                 unaccompanied_cdrx_path_list.append(r"{0}\{1}".format(root, filename))
-
