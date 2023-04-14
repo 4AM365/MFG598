@@ -17,4 +17,5 @@ if check_process('CDR.EXE'):
 else:
     process = subprocess.Popen(bosch_filepath)
 
-    
+
+
