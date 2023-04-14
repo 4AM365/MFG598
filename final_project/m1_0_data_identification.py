@@ -1,13 +1,13 @@
 import os
-from m0_1_system_variables import raw_data_path, cdrx_path_list, unaccompanied_cdrx_path_list
+from m0_1_system_variables import raw_data_path
 
 
 #This block of code creates a list of paths to cdrx files which do not have an accompanying .CSV file. 
 #The objective of this module is to find all of these 'unaccompanied' files and then create a .CSV version suitable for import and analysis. 
 
 #Whenever the database is re-scanned for new files, the unaccompanied_cdrx_path_list must be cleared. Otherwise, it will simply add the new list of unaccompanied files to an old list.
-unaccompanied_cdrx_path_list = []
 
+unaccompanied_cdrx_path_list = []
 
 for root, dirs, files in os.walk(raw_data_path):
         for filename in files:
@@ -20,4 +20,3 @@ for root, dirs, files in os.walk(raw_data_path):
 
                             unaccompanied_cdrx_path_list.append(os.path.join(root, filename))
 
-                            
