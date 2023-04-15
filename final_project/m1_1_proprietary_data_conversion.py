@@ -9,8 +9,6 @@ import pyperclip as pyp
 import os
 
 
-'''This block is used to create a pandas dataframe from the csv file containing all not-yet-interpreted .CDRx files'''
-
 '''This block is used to determine whether the Bosch CDR tool is running'''
 def check_process(process_name):
     """Check if a process is running on Windows"""
