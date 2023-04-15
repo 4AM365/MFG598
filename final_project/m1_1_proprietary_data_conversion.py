@@ -1,37 +1,78 @@
+from m0_1_system_variables import bosch_filepath
+from m1_0_data_identification import unaccompanied_cdrx_path_list
 import psutil
 import sys
 import subprocess
-from m0_1_system_variables import bosch_filepath
-import pandas as pd
-import os
 import time
 import pyautogui as gui
+import pyperclip as pyp
 
 
 '''This block is used to create a pandas dataframe from the csv file containing all not-yet-interpreted .CDRx files'''
-
 
 '''This block is used to determine whether the Bosch CDR tool is running'''
 def check_process(process_name):
     """Check if a process is running on Windows"""
     for proc in psutil.process_iter(['name']):
         if proc.name() == process_name:
+            subprocess.run(['taskkill', '/f', '/im', 'cdr.exe'])
+            time.sleep(2)
             return True
     return False
     sys.exit(1)
 
-# Check if 'cdr.exe' is running
+    # Check if 'cdr.exe' is running
 if check_process('CDR.EXE'):
-    print('CDR.EXE is running.')
+    print('CDR.EXE is running. Killing CDR.EXE and re-starting process to make it visible')
 else:
     process = subprocess.Popen(bosch_filepath)
+    time.sleep(2)
 
+#Must truncate the filepath for use in CDR to eliminate the filename and last backslash.
+for working_file in unaccompanied_cdrx_path_list:
+    working_file_str = str(working_file)
 
-time.sleep(1)
+    gui.hotkey('ctrl', 'o')
 
-gui.hotkey('ctrl', 'o')
+    gui.keyDown('shift')
 
-#Hold shift
-#Press tab 6 times
-#Press enter
+    # Press the Tab key six times
+    for i in range(7):
+        gui.press('tab')
 
+    # Release the Shift key
+        gui.keyUp('shift')   
+
+    gui.press('Enter')
+
+    pyp.copy(working_file_str)
+
+    gui.hotkey('ctrl', 'v')
+
+    gui.press('Enter')
+
+    time.sleep(2)
+    for i in range(4):
+        gui.press('tab')
+        time.sleep(0.1)
+
+    time.sleep(2)
+
+    gui.press('space')
+
+    gui.press('enter')
+
+    time.sleep(1)
+
+    gui.press('alt')
+    gui.press('right')
+
+    for i in range(9):
+        gui.press('down')
+
+    for i in range(2):
+        gui.press('enter')
+
+    time.sleep(2)
+
+    subprocess.run(['taskkill', '/f', '/im', 'cdr.exe'])`
