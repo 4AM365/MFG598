@@ -6,6 +6,7 @@ import subprocess
 import time
 import pyautogui as gui
 import pyperclip as pyp
+import os
 
 
 '''This block is used to create a pandas dataframe from the csv file containing all not-yet-interpreted .CDRx files'''
@@ -15,8 +16,6 @@ def check_process(process_name):
     """Check if a process is running on Windows"""
     for proc in psutil.process_iter(['name']):
         if proc.name() == process_name:
-            subprocess.run(['taskkill', '/f', '/im', 'cdr.exe'])
-            time.sleep(2)
             return True
     return False
     sys.exit(1)
@@ -24,13 +23,14 @@ def check_process(process_name):
     # Check if 'cdr.exe' is running
 if check_process('CDR.EXE'):
     print('CDR.EXE is running. Killing CDR.EXE and re-starting process to make it visible')
+    subprocess.run(['taskkill', '/f', '/im', 'cdr.exe'])
 else:
     process = subprocess.Popen(bosch_filepath)
     time.sleep(2)
 
 #Must truncate the filepath for use in CDR to eliminate the filename and last backslash.
 for working_file in unaccompanied_cdrx_path_list:
-    working_file_str = str(working_file)
+    working_file_dir_str = str(os.path.dirname(working_file))
 
     gui.hotkey('ctrl', 'o')
 
@@ -45,18 +45,18 @@ for working_file in unaccompanied_cdrx_path_list:
 
     gui.press('Enter')
 
-    pyp.copy(working_file_str)
+    pyp.copy(working_file_dir_str)
 
     gui.hotkey('ctrl', 'v')
 
     gui.press('Enter')
 
-    time.sleep(2)
+    time.sleep(1)
     for i in range(4):
         gui.press('tab')
         time.sleep(0.1)
 
-    time.sleep(2)
+    time.sleep(1)
 
     gui.press('space')
 
@@ -69,10 +69,8 @@ for working_file in unaccompanied_cdrx_path_list:
 
     for i in range(9):
         gui.press('down')
+        time.sleep(0.1)
 
     for i in range(2):
         gui.press('enter')
-
-    time.sleep(2)
-
-    subprocess.run(['taskkill', '/f', '/im', 'cdr.exe'])`
+        time.sleep(0.1)
