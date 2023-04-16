@@ -1,0 +1,650 @@
+System:  GMSDM40DELPHI   CDR FILE INFORMATIONUser Entered VIN,3GCNWAEF5LG401485User,M.  Mikhailov                                                   Case Number,02146598-2021                                                   EDR Data Imaging Date,"03/29/2021                                                      "Crash Date,"03/01/2021                                                      "Filename,3GCNWAEF5LG401485_ACM.CDRXSaved on,"Monday, March 29 2021 at 13:56:50"Imaged with CDR version,Crash Data Retrieval Tool 21.0.1Reported with CDR version,Crash Data Retrieval Tool 21.5EDR Device Type,Airbag Control ModuleEvent(s) recovered,"Record 1 (Deployment)"
+
+DATA LIMITATIONS
+Refer to the CDR report for data limitations
+
+SYSTEM STATUS AT TIME OF RETRIEVAL
+"ESS # 1 Traceability Data, Component Identifier",AU
+"ESS # 1 Traceability Data, Part Number/Broadcast Code",9412
+"ESS # 1 Traceability Data, Supplier Code",D
+"ESS # 1 Traceability Data, Traceability Number",A00000000
+ESS # 1 Verification Data,"13,519,412"
+"ESS # 2 Traceability Data, Component Identifier",AT
+"ESS # 2 Traceability Data, Part Number/Broadcast Code",9412
+"ESS # 2 Traceability Data, Supplier Code",D
+"ESS # 2 Traceability Data, Traceability Number",A00000000
+ESS # 2 Verification Data,"13,519,412"
+"ESS # 3 Traceability Data, Component Identifier",AH
+"ESS # 3 Traceability Data, Part Number/Broadcast Code",4197
+"ESS # 3 Traceability Data, Supplier Code",D
+"ESS # 3 Traceability Data, Traceability Number",A00000000
+ESS # 3 Verification Data,"13,514,197"
+"ESS # 4 Traceability Data, Component Identifier",AJ
+"ESS # 4 Traceability Data, Part Number/Broadcast Code",4197
+"ESS # 4 Traceability Data, Supplier Code",D
+"ESS # 4 Traceability Data, Traceability Number",A00000000
+ESS # 4 Verification Data,"13,514,197"
+"ESS # 5 Traceability Data, Traceability Number",A00000000
+"ESS # 5 Traceability Data, Component Identifier",
+"ESS # 5 Traceability Data, Part Number/Broadcast Code",0000
+"ESS # 5 Traceability Data, Supplier Code",D
+ESS # 5 Verification Data,0
+"ESS # 6 Traceability Data, Component Identifier",
+"ESS # 6 Traceability Data, Part Number/Broadcast Code",0000
+"ESS # 6 Traceability Data, Supplier Code",D
+"ESS # 6 Traceability Data, Traceability Number",A00000000
+ESS # 6 Verification Data,0
+"ESS # 7 Traceability Data, Component Identifier",
+"ESS # 7 Traceability Data, Part Number/Broadcast Code",0000
+"ESS # 7 Traceability Data, Supplier Code",D
+"ESS # 7 Traceability Data, Traceability Number",A00000000
+ESS # 7 Verification Data,0
+"ESS # 8 Traceability Data, Component Identifier",
+"ESS # 8 Traceability Data, Part Number/Broadcast Code",0000
+"ESS # 8 Traceability Data, Supplier Code",D
+"ESS # 8 Traceability Data, Traceability Number",A00000000
+ESS # 8 Verification Data,0
+AOS Data Key,0
+SDM Primary Key Definition (Key 1-2),17
+SDM Primary Key Definition (Key 3-4),10
+Dynamic Deployment Event Counter,1
+"Multi-Event, Number of Events (Dynamic Event Counter)",1
+Dynamic OnStar Notification Event Counter,1
+Driver Frontal Stage 2 Commanded after Event End for Event Record #1,No
+Passenger Frontal Stage 2 Commanded after Event End for Event Record #1,No
+Driver Frontal Stage 2 Commanded after Event End for Event Record #2,No
+Passenger Frontal Stage 2 Commanded after Event End for Event Record #2,No
+Driver Frontal Stage 2 Commanded after Event End for Event Record #3,No
+Passenger Frontal Stage 2 Commanded after Event End for Event Record #3,No
+Longitudinal Accelerometer Range (g),113
+Lateral Accelerometer Range (g),113
+Dynamic PedPro Deploy Event Counter,0
+Dynamic PedPro Event Counter,0
+Vehicle Identification Number (VIN),3GCNWAEF5LG401485
+System Type,Delphi SDM40 with integrated IMU
+"Ignition Cycle, Download (Ignition Cycles at Investigation)","2,857"
+
+SYSTEM STATUS AT EVENT (RECORD 1)
+Complete File Recorded (Event Recording Complete),Yes
+Event Record Type,Deployment
+Crash Record Locked,Yes
+OnStar Deployment Status Data Sent,Yes
+OnStar SDM Recorded Vehicle Velocity Change Data Sent,Yes
+High Voltage Disable Notification Sent,Yes
+Deployment Commanded in Energy Reserve Mode,No
+Deployment Event Counter,1
+"Multi-Event, Number of Events (Event Counter)",1
+OnStar Notification Event Counter,1
+Algorithm Active - Frontal,Yes
+Algorithm Active - Side,Yes
+Algorithm Active - Rollover,Yes
+Algorithm Active - Rear,Yes
+"Ignition Cycle, Crash (Ignition Cycles at Event)","2,826"
+Time From Event 1 to 2 (Time Between Events) (msec),Data Not Available
+Concurrent Event Flag Set,No
+Event Severity Status: Frontal Pretensioner,No
+Event Severity Status: Frontal Stage 1,No
+Event Severity Status: Frontal Stage 2,No
+Event Severity Status: Left Side,Yes
+Event Severity Status: Right Side,No
+Event Severity Status: Rear,No
+Event Severity Status: Rollover,No
+Event Severity Status: Battery Disconnect Switch - Side Event,No
+"Safety Belt Status, Driver (Driver Belt Switch Circuit Status)",Not Buckled
+"Safety Belt Status, Right Front Passenger (Passenger Belt Switch Circuit Status)",Buckled
+Center Front Row Belt Switch Circuit Status (If Equipped),Data Not Available
+Center Row 3 Belt Switch Circuit Status (If Equipped),Data Not Available
+Passenger Seat Occupancy Status,Occupied
+Occupant Size Right Front Passenger Child (Passenger Classification Status),No (Adult)
+Passenger Air Bag ON Indicator Status,On
+Passenger Air Bag OFF Indicator Status,Off
+Low Tire Pressure Warning Lamp Status 0.5 Seconds prior to Time Zero,Off
+Frontal Air Bag Warning Lamp (SIR Warning Lamp Status 0.5 Seconds Prior to Time Zero),Off
+SIR Warning Lamp ON/OFF Time Continuously (seconds),"655,330"
+Number of Ignition Cycles SIR Warning Lamp was ON/OFF Continuously,"1,172"
+Ignition Cycles Since DTCs Were Last Cleared 0.5 Seconds Prior to Time Zero,253
+"Maximum Delta-V, Longitudinal (Maximum Longitudinal SDM Recorded Vehicle Velocity Change for FSR Event) (km/h)",-7
+"Time, Maximum Delta-V (Time From FSR Time Zero to Maximum Longitudinal SDM Recorded Vehicle Velocity Change) (msec)",272
+"Maximum Delta-V, Lateral (Maximum Lateral SDM Recorded Vehicle Velocity Change for FSR Event) (km/h)",9
+"Time Maximum Delta-V, Lateral (Time From FSR Time Zero to Maximum Lateral SDM Recorded Vehicle Velocity Change) (msec)",164
+Maximum Resultant Delta-V – Longitudinal Component for FSR Event (km/h),-6
+Maximum Resultant Delta-V – Lateral Component for FSR Event (km/h),9
+Time from FSR Time Zero to time of the Maximum Resultant Delta-V (msec),164
+Blended Event FSR 1 Severity Type,Side (Left or Right Side)
+Blended Event FSR 2 Severity Type,Data Not Available
+Blended Event Time from FSR 1 Time Zero to FSR 2 Time Zero (msec),Data Not Available
+Blended Event FSR 3 Severity Type,Data Not Available
+Blended Event Time from FSR 1 Time Zero to FSR 3 Time Zero (msec),Data Not Available
+
+DIAGNOSTIC TROUBLE CODES 0.5 SECONDS PRIOR TO TIME ZERO (RECORD 1)
+DTC 1,B0052-00
+DTC 2,N/A
+DTC 3,N/A
+DTC 4,N/A
+DTC 5,N/A
+DTC 6,N/A
+DTC 7,N/A
+DTC 8,N/A
+DTC 9,N/A
+
+DEPLOYMENT COMMAND DATA (RECORD 1)
+Driver 1st Stage Deployment Loop Commanded,No
+Passenger 1st Stage Deployment Loop Commanded,No
+Driver 2nd Stage Deployment Loop Commanded,No
+Passenger 2nd Stage Deployment Loop Commanded,No
+Driver Pretensioner Deployment Loop #1 Commanded,Yes
+Passenger Pretensioner Deployment Loop #1 Commanded,Yes
+Driver Pretensioner Deployment Loop #2 Commanded,Yes
+Passenger Pretensioner Deployment Loop #2 Commanded,Yes
+Driver Thorax Loop Commanded,Yes
+Passenger Thorax Loop Commanded,No
+Left Row 1 Roof Rail/Head Curtain Loop Commanded,Yes
+Right Row 1 Roof Rail/Head Curtain Loop Commanded,Yes
+"Frontal Air Bag Deployment, Time to 1st Stage Deployment, Driver (Driver 1st Stage Time From Time Zero to Deployment Command Criteria Met) (msec)",Data Not Available
+"Frontal Air Bag Deployment, Time to 1st Stage Deployment, Right Front Passenger (Passenger 1st Stage Time From Time Zero to Deployment Command Criteria Met) (msec)",Data Not Available
+"Frontal Air Bag Deployment, Time to 2nd Stage, Driver (Driver 2nd Stage Time From Time Zero to Deployment Command Criteria Met) (msec)",Data Not Available
+"Frontal Air Bag Deployment, Time to 2nd Stage, Right Front Passenger (Passenger 2nd Stage Time From Time Zero to Deployment Command Criteria Met) (msec)",Data Not Available
+"Pretensioner Deployment, Time to Fire, Driver (Driver Pretensioner Time From Time Zero to Deployment Loop #1 Command Criteria Met) (msec)",11
+"Pretensioner Deployment, Time to Fire, Right Front Passenger (Passenger Pretensioner Time From Time Zero to Deployment Loop #1 Command Criteria Met) (msec)",11
+"Pretensioner Deployment, Time to Fire, Driver (Driver Pretensioner Time From Time Zero to Deployment Loop #2 Command Criteria Met) (msec)",17
+"Pretensioner Deployment, Time to Fire, Right Front Passenger (Passenger Pretensioner Time From Time Zero to Deployment Loop #2 Command Criteria Met) (msec)",17
+"Side Air Bag Deployment, Time to Deploy, Driver (Driver Thorax Time From Time Zero to Deployment Command Criteria Met) (msec)",11
+"Side Air Bag Deployment, Time to Deploy, Right Front Passenger (Passenger Thorax Time From Time Zero to Deployment Command Criteria Met) (msec)",Data Not Available
+Left Row 1 Curtain Time From Time Zero to Deployment Command Criteria Met (msec),11
+Right Row 1 Curtain Time From Time Zero to Deployment Command Criteria Met (msec),11
+
+LONGITUDINAL DELTA-V (RECORD 1)
+Time (msec),"Delta-V, Longitudinal (SDM Recorded Vehicle Longitudinal Velocity Change for FSR Event) (km/h)",
+10,0,
+20,0,
+30,0,
+40,-2,
+50,-2,
+60,-2,
+70,-3,
+80,-5,
+90,-6,
+100,-7,
+110,-7,
+120,-8,
+130,-8,
+140,-9,
+150,-10,
+160,-10,
+170,-10,
+180,-10,
+190,-10,
+200,-10,
+210,-11,
+220,-11,
+230,-11,
+240,-11,
+250,-11,
+260,-11,
+270,-11,
+280,-11,
+290,-11,
+300,-11,
+
+LONGITUDINAL ACCELERATION (RECORD 1)
+Time (msec),Longitudinal Acceleration (SDM Recorded Vehicle Longitudinal Acceleration for FSR Event) (g),
+2,-0.13,
+4,-0.13,
+6,-0.88,
+8,0.00,
+10,0.87,
+12,-0.50,
+14,1.00,
+16,0.75,
+18,0.00,
+20,0.25,
+22,0.75,
+24,0.62,
+26,0.12,
+28,-2.88,
+30,-1.25,
+32,0.00,
+34,-2.38,
+36,-2.88,
+38,-7.25,
+40,-6.63,
+42,-5.25,
+44,-3.63,
+46,1.12,
+48,-1.88,
+50,0.37,
+52,-2.88,
+54,0.25,
+56,2.00,
+58,1.87,
+60,-1.00,
+62,-1.88,
+64,-3.88,
+66,-3.25,
+68,-2.75,
+70,-4.13,
+72,-4.00,
+74,-5.00,
+76,-3.38,
+78,-4.25,
+80,-3.38,
+82,-4.38,
+84,-4.75,
+86,-4.88,
+88,-4.63,
+90,-3.88,
+92,-3.00,
+94,-2.63,
+96,-1.38,
+98,-2.25,
+100,-1.75,
+102,-1.25,
+104,-1.13,
+106,-1.75,
+108,-1.63,
+110,-1.63,
+112,-1.00,
+114,-1.13,
+116,-1.50,
+118,-1.63,
+120,-3.38,
+122,4.00,
+124,-4.13,
+126,-2.25,
+128,-2.13,
+130,-2.13,
+132,-2.25,
+134,0.00,
+136,-2.50,
+138,-1.75,
+140,-4.50,
+142,-2.88,
+144,-1.88,
+146,-1.75,
+148,-1.75,
+150,-1.50,
+152,-1.88,
+154,-1.38,
+156,0.00,
+158,0.37,
+160,-0.63,
+162,-0.38,
+164,-0.75,
+166,-0.25,
+168,-0.25,
+170,0.00,
+172,-0.25,
+174,-0.38,
+176,-1.13,
+178,-0.88,
+180,-0.38,
+182,-0.63,
+184,-0.50,
+186,-0.38,
+188,-0.50,
+190,-0.25,
+192,0.00,
+194,0.12,
+196,0.12,
+198,0.00,
+200,-0.13,
+202,-1.00,
+204,0.12,
+206,-2.13,
+208,-0.13,
+210,-0.63,
+212,-0.25,
+214,0.00,
+216,0.25,
+218,0.37,
+220,0.37,
+222,0.12,
+224,0.12,
+226,0.00,
+228,-0.13,
+230,-0.13,
+232,-0.63,
+234,-0.63,
+236,-0.88,
+238,-0.88,
+240,-0.88,
+242,-0.88,
+244,-0.75,
+246,-0.63,
+248,-0.50,
+250,-0.38,
+252,-0.50,
+254,-0.38,
+256,-0.50,
+258,-0.50,
+260,-0.63,
+262,-0.50,
+264,-0.25,
+266,-0.13,
+268,0.00,
+270,-0.25,
+272,-0.38,
+274,-0.25,
+276,-0.13,
+278,Data Not Available,
+280,Data Not Available,
+282,Data Not Available,
+284,Data Not Available,
+286,Data Not Available,
+288,Data Not Available,
+290,Data Not Available,
+292,Data Not Available,
+294,Data Not Available,
+296,Data Not Available,
+298,Data Not Available,
+300,Data Not Available,
+
+LATERAL DELTA-V (RECORD 1)
+Time (msec),"Delta-V, Lateral (SDM Recorded Vehicle Lateral Velocity Change for FSR Event) (km/h)",
+10,2,
+20,6,
+30,9,
+40,9,
+50,8,
+60,8,
+70,10,
+80,11,
+90,12,
+100,12,
+110,12,
+120,11,
+130,11,
+140,12,
+150,13,
+160,13,
+170,14,
+180,13,
+190,13,
+200,12,
+210,11,
+220,10,
+230,9,
+240,8,
+250,8,
+260,8,
+270,7,
+280,7,
+290,7,
+300,7,
+
+LATERAL ACCELERATION (RECORD 1)
+Time (msec),Lateral Acceleration (SDM Recorded Vehicle Lateral Acceleration for FSR Event) (g),
+2,0.25,
+4,0.37,
+6,2.00,
+8,6.50,
+10,9.75,
+12,6.75,
+14,4.87,
+16,9.12,
+18,10.62,
+20,18.75,
+22,21.25,
+24,8.87,
+26,6.87,
+28,18.00,
+30,1.25,
+32,9.12,
+34,-0.75,
+36,2.62,
+38,-10.63,
+40,-0.50,
+42,-5.00,
+44,-12.63,
+46,1.37,
+48,-1.63,
+50,0.37,
+52,3.62,
+54,-3.63,
+56,1.50,
+58,3.37,
+60,1.25,
+62,3.12,
+64,0.12,
+66,4.25,
+68,5.12,
+70,8.00,
+72,7.50,
+74,6.87,
+76,8.37,
+78,0.62,
+80,4.00,
+82,2.37,
+84,3.50,
+86,1.00,
+88,3.12,
+90,2.87,
+92,1.50,
+94,0.75,
+96,0.62,
+98,-0.75,
+100,-1.88,
+102,-1.38,
+104,-1.25,
+106,-1.88,
+108,-1.13,
+110,-1.50,
+112,-0.13,
+114,-0.50,
+116,-1.38,
+118,-2.13,
+120,-4.00,
+122,-0.75,
+124,-2.13,
+126,0.62,
+128,-2.38,
+130,0.25,
+132,1.25,
+134,0.37,
+136,1.37,
+138,3.87,
+140,3.62,
+142,6.50,
+144,2.12,
+146,4.12,
+148,2.37,
+150,-0.13,
+152,4.87,
+154,3.37,
+156,3.50,
+158,0.00,
+160,1.25,
+162,1.37,
+164,1.00,
+166,1.12,
+168,-0.63,
+170,-0.50,
+172,-0.88,
+174,-0.63,
+176,-1.13,
+178,-1.00,
+180,-0.50,
+182,-0.88,
+184,-1.38,
+186,-1.13,
+188,-2.25,
+190,-2.00,
+192,-2.38,
+194,-2.38,
+196,-2.50,
+198,-2.13,
+200,-2.88,
+202,-2.38,
+204,-0.75,
+206,-4.63,
+208,-2.75,
+210,-4.00,
+212,-2.25,
+214,-2.50,
+216,-2.75,
+218,-2.63,
+220,-2.63,
+222,-2.50,
+224,-2.63,
+226,-2.38,
+228,-2.88,
+230,-2.00,
+232,-2.38,
+234,-1.88,
+236,-2.00,
+238,-1.75,
+240,-1.75,
+242,-1.50,
+244,-1.38,
+246,-1.00,
+248,-0.88,
+250,-0.63,
+252,-0.50,
+254,-0.63,
+256,-0.50,
+258,-0.50,
+260,-0.25,
+262,-0.25,
+264,0.00,
+266,0.00,
+268,0.12,
+270,-0.63,
+272,-0.50,
+274,0.12,
+276,0.00,
+278,Data Not Available,
+280,Data Not Available,
+282,Data Not Available,
+284,Data Not Available,
+286,Data Not Available,
+288,Data Not Available,
+290,Data Not Available,
+292,Data Not Available,
+294,Data Not Available,
+296,Data Not Available,
+298,Data Not Available,
+300,Data Not Available,
+
+ROLLOVER CRASH PULSE (RECORD 1)
+Time (msec),SDM Recorded Vehicle Roll Rate (deg/sec),Lateral Acceleration (SDM Recorded Vehicle Lateral Acceleration for Rollover Event) (g),Normal Acceleration (SDM Recorded Vehicle Vertical Acceleration for Rollover Event (g),
+-700,Data Not Available,Data Not Available,Data Not Available,
+-690,Data Not Available,Data Not Available,Data Not Available,
+-680,Data Not Available,Data Not Available,Data Not Available,
+-670,Data Not Available,Data Not Available,Data Not Available,
+-660,Data Not Available,Data Not Available,Data Not Available,
+-650,Data Not Available,Data Not Available,Data Not Available,
+-640,Data Not Available,Data Not Available,Data Not Available,
+-630,Data Not Available,Data Not Available,Data Not Available,
+-620,Data Not Available,Data Not Available,Data Not Available,
+-610,Data Not Available,Data Not Available,Data Not Available,
+-600,Data Not Available,Data Not Available,Data Not Available,
+-590,Data Not Available,Data Not Available,Data Not Available,
+-580,Data Not Available,Data Not Available,Data Not Available,
+-570,Data Not Available,Data Not Available,Data Not Available,
+-560,Data Not Available,Data Not Available,Data Not Available,
+-550,Data Not Available,Data Not Available,Data Not Available,
+-540,Data Not Available,Data Not Available,Data Not Available,
+-530,Data Not Available,Data Not Available,Data Not Available,
+-520,Data Not Available,Data Not Available,Data Not Available,
+-510,Data Not Available,Data Not Available,Data Not Available,
+-500,Data Not Available,Data Not Available,Data Not Available,
+-490,Data Not Available,Data Not Available,Data Not Available,
+-480,Data Not Available,Data Not Available,Data Not Available,
+-470,Data Not Available,Data Not Available,Data Not Available,
+-460,Data Not Available,Data Not Available,Data Not Available,
+-450,Data Not Available,Data Not Available,Data Not Available,
+-440,Data Not Available,Data Not Available,Data Not Available,
+-430,Data Not Available,Data Not Available,Data Not Available,
+-420,Data Not Available,Data Not Available,Data Not Available,
+-410,Data Not Available,Data Not Available,Data Not Available,
+-400,Data Not Available,Data Not Available,Data Not Available,
+-390,Data Not Available,Data Not Available,Data Not Available,
+-380,Data Not Available,Data Not Available,Data Not Available,
+-370,Data Not Available,Data Not Available,Data Not Available,
+-360,Data Not Available,Data Not Available,Data Not Available,
+-350,Data Not Available,Data Not Available,Data Not Available,
+-340,Data Not Available,Data Not Available,Data Not Available,
+-330,Data Not Available,Data Not Available,Data Not Available,
+-320,Data Not Available,Data Not Available,Data Not Available,
+-310,Data Not Available,Data Not Available,Data Not Available,
+-300,Data Not Available,Data Not Available,Data Not Available,
+-290,Data Not Available,Data Not Available,Data Not Available,
+-280,Data Not Available,Data Not Available,Data Not Available,
+-270,Data Not Available,Data Not Available,Data Not Available,
+-260,Data Not Available,Data Not Available,Data Not Available,
+-250,Data Not Available,Data Not Available,Data Not Available,
+-240,Data Not Available,Data Not Available,Data Not Available,
+-230,Data Not Available,Data Not Available,Data Not Available,
+-220,Data Not Available,Data Not Available,Data Not Available,
+-210,Data Not Available,Data Not Available,Data Not Available,
+-200,Data Not Available,Data Not Available,Data Not Available,
+-190,Data Not Available,Data Not Available,Data Not Available,
+-180,Data Not Available,Data Not Available,Data Not Available,
+-170,Data Not Available,Data Not Available,Data Not Available,
+-160,Data Not Available,Data Not Available,Data Not Available,
+-150,Data Not Available,Data Not Available,Data Not Available,
+-140,Data Not Available,Data Not Available,Data Not Available,
+-130,Data Not Available,Data Not Available,Data Not Available,
+-120,Data Not Available,Data Not Available,Data Not Available,
+-110,Data Not Available,Data Not Available,Data Not Available,
+-100,Data Not Available,Data Not Available,Data Not Available,
+-90,Data Not Available,Data Not Available,Data Not Available,
+-80,Data Not Available,Data Not Available,Data Not Available,
+-70,Data Not Available,Data Not Available,Data Not Available,
+-60,Data Not Available,Data Not Available,Data Not Available,
+-50,Data Not Available,Data Not Available,Data Not Available,
+-40,Data Not Available,Data Not Available,Data Not Available,
+-30,Data Not Available,Data Not Available,Data Not Available,
+-20,Data Not Available,Data Not Available,Data Not Available,
+-10,Data Not Available,Data Not Available,Data Not Available,
+0,Data Not Available,Data Not Available,Data Not Available,
+10,Data Not Available,Data Not Available,Data Not Available,
+20,Data Not Available,Data Not Available,Data Not Available,
+30,Data Not Available,Data Not Available,Data Not Available,
+40,Data Not Available,Data Not Available,Data Not Available,
+50,Data Not Available,Data Not Available,Data Not Available,
+60,Data Not Available,Data Not Available,Data Not Available,
+70,Data Not Available,Data Not Available,Data Not Available,
+80,Data Not Available,Data Not Available,Data Not Available,
+90,Data Not Available,Data Not Available,Data Not Available,
+100,Data Not Available,Data Not Available,Data Not Available,
+110,Data Not Available,Data Not Available,Data Not Available,
+120,Data Not Available,Data Not Available,Data Not Available,
+130,Data Not Available,Data Not Available,Data Not Available,
+140,Data Not Available,Data Not Available,Data Not Available,
+150,Data Not Available,Data Not Available,Data Not Available,
+160,Data Not Available,Data Not Available,Data Not Available,
+170,Data Not Available,Data Not Available,Data Not Available,
+180,Data Not Available,Data Not Available,Data Not Available,
+190,Data Not Available,Data Not Available,Data Not Available,
+200,Data Not Available,Data Not Available,Data Not Available,
+210,Data Not Available,Data Not Available,Data Not Available,
+220,Data Not Available,Data Not Available,Data Not Available,
+230,Data Not Available,Data Not Available,Data Not Available,
+240,Data Not Available,Data Not Available,Data Not Available,
+250,Data Not Available,Data Not Available,Data Not Available,
+260,Data Not Available,Data Not Available,Data Not Available,
+270,Data Not Available,Data Not Available,Data Not Available,
+280,Data Not Available,Data Not Available,Data Not Available,
+290,Data Not Available,Data Not Available,Data Not Available,
+
+PRE-CRASH DATA -5.0 TO -0.5 SEC (RECORD 1)
+Time (sec),Service Brake (Brake Switch Circuit State),"Accelerator Pedal Position, % Full (Accelerator Pedal Position) (%)",Engine RPM (Engine Speed) (RPM),"Engine Throttle, % Full (Throttle Position) (%)","Speed, Vehicle Indicated (Vehicle Speed) (km/h)",System Power Mode Status,System Backup Power Mode Status,System Backup Power Mode Enabled,CommEnable Status,SDM Power Mode Status,Ignition Prolongation Timer (seconds),
+-5.0,Off,1,"1,088",2,41,Run,Run,No,Active,Run,0.0,
+-4.5,Off,0,960,4,41,Run,Run,No,Active,Run,0.0,
+-4.0,Off,36,"1,088",5,41,Run,Run,No,Active,Run,0.0,
+-3.5,Off,40,"1,984",58,42,Run,Run,No,Active,Run,0.0,
+-3.0,Off,26,"2,240",35,44,Run,Run,No,Active,Run,0.0,
+-2.5,Off,22,"2,240",38,48,Run,Run,No,Active,Run,0.0,
+-2.0,Off,8,"1,920",19,50,Run,Run,No,Active,Run,0.0,
+-1.5,Off,0,"1,408",12,50,Run,Run,No,Active,Run,0.0,
+-1.0,Off,0,"1,280",11,50,Run,Run,No,Active,Run,0.0,
+-0.5,Off,14,"1,408",27,50,Run,Run,No,Active,Run,0.0,
+
+PRE-CRASH DATA -2.0 TO -0.5 SEC (RECORD 1)
+Time (sec),Cruise Control Active,Cruise Control Resume Switch Active,Cruise Control Set Switch Active,Reduced Engine Power Mode Indicator,Engine Torque (N-m),
+-2.0,No,No,No,Off,162,
+-1.5,No,No,No,Off,0,
+-1.0,No,No,No,Off,-20,
+-0.5,No,No,No,Off,20,
+
