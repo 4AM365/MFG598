@@ -1,0 +1,198 @@
+6/17/2017 11:48:26 AM  -156373175 (counts, ms)
+CDR.exe exiting
+
+8/12/2017 7:50:48 AM  372801799 (counts, ms)
+CDR started.
+
+8/12/2017 7:50:48 AM  372801814 (counts, ms)
+Executeable is CDR
+
+8/12/2017 7:50:48 AM  372801814 (counts, ms)
+Executeable path: C:\Program Files (x86)\Bosch\Crash Data Retrieval
+
+8/12/2017 7:50:48 AM  372801830 (counts, ms)
+Crash Data Retrieval Tool 17.3
+
+8/12/2017 7:50:48 AM  372802034 (counts, ms)
+TheDataFile = C:\Users\justgivemethedata\My Documents\Crash Data Retrieval\.CDR, and DataPath = C:\Users\justgivemethedata\My Documents\Crash Data Retrieval\
+
+8/12/2017 7:50:48 AM  372802221 (counts, ms)
+CDR program CRC:  5770CEC9
+
+8/12/2017 7:50:48 AM  372802237 (counts, ms)
+CDR.exe compilation options:
+	BETACOMPILE		OFF
+	BUGHUNTCOMPILE		OFF
+	DEBUGCOMPILE 		OFF
+	VLMS			ON
+	VIEWER_VALUE		OFF
+	MENU_SNAPSHOT		OFF
+	CONSOLE_COMPILE		ON
+	VERBOSE_TEST_MSGS	OFF
+	CERT_COMPILE		OFF
+	FIAT_FF001		ON
+	VW				OFF
+	PORSCHE				OFF
+	NEXUS_TESTCOMPILE		OFF
+	EDR17				ON
+
+8/12/2017 7:50:48 AM  372802299 (counts, ms)
+Value of View Only is  False, CertificateCompanyName=Sharshunskiy Consulting, LLC
+
+8/12/2017 7:51:57 AM  372871124 (counts, ms)
+VIN entered:  1FDXE4FS5BDA96599
+
+8/12/2017 7:51:57 AM  372871124 (counts, ms)
+System1 = Ford RC6 Generic  System2 = NONE              System3 = NONE              System4 = NONE            
+
+8/12/2017 7:53:05 AM  372938719 (counts, ms)
+The format for the crash date you entered in incorrect.
+Please use the following numerical date format
+and be sure to use "/" to separate the fields as shown: mm/dd/yyyy.
+
+8/12/2017 7:54:45 AM  373038376 (counts, ms)
+The format for the crash date you entered in incorrect.
+Please use the following numerical date format
+and be sure to use "/" to separate the fields as shown: mm/dd/yyyy.
+
+8/12/2017 9:48:21 AM  379855120 (counts, ms)
+Bgin Function SetComPort 3
+
+8/12/2017 9:48:21 AM  379855324 (counts, ms)
+Exit Function SetComPort(3) = True
+
+8/12/2017 9:48:22 AM  379855542 (counts, ms)
+Call FindComPorts
+
+8/12/2017 9:48:22 AM  379855558 (counts, ms)
+Begin FindComPorts, SerialPortScanListToSkip = 
+
+8/12/2017 9:48:22 AM  379855558 (counts, ms)
+  Processing PortNumber 1
+
+8/12/2017 9:48:22 AM  379855605 (counts, ms)
+Comm port number:   1, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:22 AM  379855620 (counts, ms)
+  Processing PortNumber 2
+
+8/12/2017 9:48:22 AM  379855636 (counts, ms)
+Comm port number:   2, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:22 AM  379855636 (counts, ms)
+  Processing PortNumber 3
+
+8/12/2017 9:48:22 AM  379855855 (counts, ms)
+    .Output = AT CR at 09:48:22
+
+8/12/2017 9:48:22 AM  379855980 (counts, ms)
+Modem response 1:  ×WAŽ
+
+8/12/2017 9:48:22 AM  379855980 (counts, ms)
+    .Output = AT CR at 09:48:22
+
+8/12/2017 9:48:22 AM  379855995 (counts, ms)
+	Output done. Begin Input in .1 secs.
+
+8/12/2017 9:48:22 AM  379856105 (counts, ms)
+   Comm port number:   3	Modem response #2:  ×WAŽ
+
+8/12/2017 9:48:22 AM  379856105 (counts, ms)
+  Processing PortNumber 4
+
+8/12/2017 9:48:22 AM  379856137 (counts, ms)
+Comm port number:   4, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:22 AM  379856137 (counts, ms)
+  Processing PortNumber 5
+
+8/12/2017 9:48:22 AM  379856152 (counts, ms)
+Comm port number:   5, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:22 AM  379856167 (counts, ms)
+  Processing PortNumber 6
+
+8/12/2017 9:48:22 AM  379856183 (counts, ms)
+Comm port number:   6, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:22 AM  379856183 (counts, ms)
+  Processing PortNumber 7
+
+8/12/2017 9:48:22 AM  379856199 (counts, ms)
+Comm port number:   7, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:22 AM  379856199 (counts, ms)
+  Processing PortNumber 8
+
+8/12/2017 9:48:22 AM  379856214 (counts, ms)
+Comm port number:   8, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:22 AM  379856230 (counts, ms)
+  Processing PortNumber 9
+
+8/12/2017 9:48:22 AM  379856230 (counts, ms)
+Comm port number:   9, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:22 AM  379856245 (counts, ms)
+  Processing PortNumber 10
+
+8/12/2017 9:48:22 AM  379856261 (counts, ms)
+Comm port number:   10, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:22 AM  379856261 (counts, ms)
+  Processing PortNumber 11
+
+8/12/2017 9:48:22 AM  379856277 (counts, ms)
+Comm port number:   11, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:22 AM  379856277 (counts, ms)
+  Processing PortNumber 12
+
+8/12/2017 9:48:22 AM  379856292 (counts, ms)
+Comm port number:   12, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:22 AM  379856292 (counts, ms)
+  Processing PortNumber 13
+
+8/12/2017 9:48:22 AM  379856308 (counts, ms)
+Comm port number:   13, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:22 AM  379856324 (counts, ms)
+  Processing PortNumber 14
+
+8/12/2017 9:48:22 AM  379856324 (counts, ms)
+Comm port number:   14, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:22 AM  379856339 (counts, ms)
+  Processing PortNumber 15
+
+8/12/2017 9:48:22 AM  379856339 (counts, ms)
+Comm port number:   15, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:23 AM  379856355 (counts, ms)
+  Processing PortNumber 16
+
+8/12/2017 9:48:23 AM  379856371 (counts, ms)
+Comm port number:   16, Error number:   8002, Error description:  Invalid port number
+
+8/12/2017 9:48:23 AM  379856371 (counts, ms)
+Return from FindComPorts
+
+8/12/2017 9:48:23 AM  379856386 (counts, ms)
+Bgin Function SetComPort 3
+
+8/12/2017 9:48:23 AM  379856590 (counts, ms)
+Exit Function SetComPort(3) = True
+
+8/12/2017 9:48:28 AM  379861759 (counts, ms)
+Do you have written permission from the owner of this vehicle to collect data or other legal authority such as a court order or search warrant?
+
+8/12/2017 9:49:42 AM  379935796 (counts, ms)
+1FDXE4FS5BDA96599
+
+8/12/2017 9:49:42 AM  379935796 (counts, ms)
+Save recovered data?
+
+8/12/2017 9:51:34 AM  380047498 (counts, ms)
+SetUp menu selected
+
