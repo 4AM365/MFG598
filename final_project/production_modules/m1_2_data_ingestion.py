@@ -13,15 +13,6 @@ for root, dirs, files in os.walk(raw_data_path):
 
 
 
-data_type = []
-# Determine the file encoding
-for file_path in complete_csv_path_list:
-    with open(file_path, 'rb') as f:
-        result = chardet.detect(f.read())
-    file_encoding = result['encoding']
-    data_type.append(file_encoding)
-
-
 # Create an empty list to store the dataframes
 df_list = []
 vin_list = []
