@@ -1,0 +1,922 @@
+System:  SDM50           CDR FILE INFORMATIONUser Entered VIN,3GCNAAED6NG662964User,M.  Mikhailov                                                   Case Number,02846539-2022                                                   EDR Data Imaging Date,"11/02/2022                                                      "Crash Date,"09/27/2022                                                      "Filename,3GCNAAED6NG662964_ACM.CDRXSaved on,"Wednesday, November 2 2022 at 12:22:30"Imaged with CDR version,Crash Data Retrieval Tool 23.0.1Reported with CDR version,Crash Data Retrieval Tool 23.0.1EDR Device Type,Airbag Control ModuleEvent(s) recovered,"Non-Deployment Record 1"
+
+DATA LIMITATIONS
+Refer to the CDR report for data limitations
+
+SYSTEM STATUS AT TIME OF RETRIEVAL
+"Ignition Cycle, Download (cycles)",83
+Manufacturing Traceability - Line Identification,1
+Manufacturing Traceability - Shift Identification,2
+Manufacturing Traceability - Last Two Digits of Year,22
+Manufacturing Traceability - Julian Date Day of the Year,220
+"Manufacturing Traceability - Serial, Lot or Batch Number",B01405265
+Part of Assembly Traceability For ESS1 - Line Identification,1
+Part of Assembly Traceability For ESS1 - Shift Identification,1
+Part of Assembly Traceability For ESS1 - Last Two Digits of Year,N/A
+Part of Assembly Traceability For ESS1 - Julian Date Day of the Year,N/A
+Part of Assembly Traceability For ESS1 - Traceability Number,N/A
+Part of Assembly Traceability For ESS1 - Data Universal Number System,N/A
+Part of Assembly Traceability For ESS1 - CVP and Product Structure,N/A
+Part of Assembly Traceability For ESS2 - Line Identification,2
+Part of Assembly Traceability For ESS2 - Shift Identification,1
+Part of Assembly Traceability For ESS2 - Last Two Digits of Year,N/A
+Part of Assembly Traceability For ESS2 - Julian Date Day of the Year,N/A
+Part of Assembly Traceability For ESS2 - Traceability Number,N/A
+Part of Assembly Traceability For ESS2 - Data Universal Number System,N/A
+Part of Assembly Traceability For ESS2 - CVP and Product Structure,N/A
+Part of Assembly Traceability For ESS3 - Line Identification,3
+Part of Assembly Traceability For ESS3 - Shift Identification,1
+Part of Assembly Traceability For ESS3 - Last Two Digits of Year,N/A
+Part of Assembly Traceability For ESS3 - Julian Date Day of the Year,N/A
+Part of Assembly Traceability For ESS3 - Traceability Number,N/A
+Part of Assembly Traceability For ESS3 - Data Universal Number System,N/A
+Part of Assembly Traceability For ESS3 - CVP and Product Structure,N/A
+Part of Assembly Traceability For ESS4 - Line Identification,4
+Part of Assembly Traceability For ESS4 - Shift Identification,1
+Part of Assembly Traceability For ESS4 - Last Two Digits of Year,N/A
+Part of Assembly Traceability For ESS4 - Julian Date Day of the Year,N/A
+Part of Assembly Traceability For ESS4 - Traceability Number,N/A
+Part of Assembly Traceability For ESS4 - Data Universal Number System,N/A
+Part of Assembly Traceability For ESS4 - CVP and Product Structure,N/A
+Part of Assembly Part Number For ESS1,4294967295
+Part of Assembly Part Number For ESS2,4294967295
+Part of Assembly Part Number For ESS3,4294967295
+Part of Assembly Part Number For ESS4,4294967295
+BSWIDI Module Identifier,Primary Microprocessor Bootloader
+BSWIDI Part Number,13548934
+BSWIDI Alpha Code,AA
+Module Identifier,Primary Microprocessor Application Software
+ASWIDI Part Number,13551469
+ASWIDI Alpha Code,AA
+ADIDI Module Identifier 1,Main Calibration
+ADIDI Part Number 1,87826821
+ADIDI Alpha Code 1,AA
+ADIDI Module Identifier 2,SBR Calibration
+ADIDI Part Number 2,85142607
+ADIDI Alpha Code 2,AA
+Vehicle Identification Number (VIN),3GCNAAED6NG662964
+GM End Model Part Number,13552065
+GM Base Model Part Number,13552066
+GM End Model Part Number Alpha Code,AA
+GM Base Model Part Number Alpha Code,AA
+Longitudinal Accelerometer Range (g),120.0
+Lateral Accelerometer Range (g),120.0
+
+SUPPLEMENTAL EVENT RECORD #1
+"Multi-Event, Number of Events (Event Counter)",1
+Event Enable Time (msec),"108,760,723"
+Event End Time (msec),"108,761,609"
+"Ignition Cycle, Crash (Ignition Cycles Counter)",77
+Front Pretensioner Severity,True
+Front Stage1 Severity,True
+Front Stage2 Severity,True
+Left Side Severity,False
+Right Side Severity,False
+Rollover Severity,False
+Rear Severity,False
+Battery Disconnect Side Severity,False
+Event Record Status Event Type,Deployment Event
+
+SUPPLEMENTAL EVENT RECORD #2
+
+SUPPLEMENTAL EVENT RECORD #3
+
+SUPPLEMENTAL EVENT RECORD #4
+
+SUPPLEMENTAL EVENT RECORD #5
+
+SUPPLEMENTAL EVENT RECORD #6
+
+SUPPLEMENTAL EVENT RECORD #7
+
+SUPPLEMENTAL EVENT RECORD #8
+
+SUPPLEMENTAL EVENT RECORD #9
+
+SUPPLEMENTAL EVENT RECORD #10
+
+SUPPLEMENTAL EVENT RECORD #11
+
+SUPPLEMENTAL EVENT RECORD #12
+
+SUPPLEMENTAL EVENT RECORD #13
+
+SUPPLEMENTAL EVENT RECORD #14
+
+SUPPLEMENTAL EVENT RECORD #15
+
+SUPPLEMENTAL EVENT RECORD #16
+
+SUPPLEMENTAL EVENT RECORD #17
+
+SUPPLEMENTAL EVENT RECORD #18
+
+SUPPLEMENTAL EVENT RECORD #19
+
+SUPPLEMENTAL EVENT RECORD #20
+
+SUPPLEMENTAL EVENT RECORD #21
+
+SUPPLEMENTAL EVENT RECORD #22
+
+SUPPLEMENTAL EVENT RECORD #23
+
+SUPPLEMENTAL EVENT RECORD #24
+
+SUPPLEMENTAL EVENT RECORD #25
+
+SUPPLEMENTAL EVENT RECORD #26
+
+SUPPLEMENTAL EVENT RECORD #27
+
+SUPPLEMENTAL EVENT RECORD #28
+
+SUPPLEMENTAL EVENT RECORD #29
+
+SUPPLEMENTAL EVENT RECORD #30
+
+SYSTEM STATUS AT EVENT (RECORD 1)
+Event Counter,1
+Ignition Cycle Counter,77
+Frontal Air Bag Warning Indicator (SIR Warning Indicator Status at Enable),Off
+SIR Warning Indicator ON/OFF Time (sec),"107,060"
+Number of Ignition Cycles SIR Warning Indicator was ON/OFF Continuously,77
+Ignition Cycles Since DTCs Were Last Cleared,77
+"Safety Belt Status, Right Front Passenger (Front Passenger Belt Switch Circuit Status)",Not Buckled
+"Safety Belt Status, Driver (Driver Belt Switch Circuit Status)",Buckled
+Maximum Resultant Delta-V - Longitudinal Component for FSR Event (km/h),-76
+Maximum Resultant Delta-V - Lateral Component for FSR Event (km/h),-9
+Time From FSR Time Zero to Time of the Maximum Resultant SDM Recorded Vehicle Velocity Change (msec),504
+"Maximum Delta-V, Longitudinal (Maximum Longitudinal SDM Recorded Vehicle Velocity Change for FSR Event) (km/h)",-76
+Paired SDM Recorded Vehicle Lateral Velocity Change for Maximum Longitudinal Velocity Change (km/h),-9
+"Time, Maximum Delta-V (Time From FSR Time Zero to Maximum Longitudinal SDM Recorded Vehicle Velocity Change) (msec)",504
+"Maximum Delta-V, Lateral (Maximum Lateral SDM Recorded Vehicle Velocity Change for FSR Event) (km/h)",-10
+Paired SDM Recorded Vehicle Longitudinal Velocity Change for Maximum Lateral Velocity Change (km/h),-60
+"Time Maximum Delta-V, Lateral (Time From FSR Time Zero to Maximum Lateral SDM Recorded Vehicle Velocity Change) (msec)",504
+Tire Pressure Low Indication On at Event,False
+Ignition Operating Timer (msec),"108,760,723"
+UTC Time at Event,00:00:00
+UTC Date at Event,2019/Unknown/01
+Frontal Algorithm Wakeup Time (msec),0
+Side Algorithm Wakeup Time (msec),Data Not Available
+Rear Algorithm Wakeup Time (msec),Data Not Available
+Rollover Algorithm Wakeup Time (msec),0
+Frontal Algorithm Reset Time (msec),49
+Side Algorithm Reset Time (msec),Data Not Available
+Rear Algorithm Reset Time (msec),Data Not Available
+Rollover Algorithm Reset Time (msec),Data Not Available
+"Occupant Position Classification, Right Front Passenger (Front Passenger Seat Restraint Control Occupancy Status)",No (Empty or Occupied Non Adult)
+Commanded State of Suppression ON (PAB Off) Indicator,On
+Commanded State of Suppression OFF (PAB On) Indicator,Off
+Time to Frontal Impact Pretensioner PCN Request (msec),349
+Time to Frontal Impact Stage 1 PCN Request (msec),349
+Time to Frontal Impact Stage 2 PCN Request (msec),510
+Time to Left Side Impact PCN Request (msec),Data Not Available
+Time to Right Side Impact PCN Request (msec),Data Not Available
+Time to Rear Impact PCN Request (msec),Data Not Available
+Time to Rollover Impact PCN Request (msec),Data Not Available
+Time to Battery Disconnect Switch Side Severity (msec),Data Not Available
+High Voltage Disable Notification Sent,False
+Deployment Commanded in Energy Reserve Mode,False
+Event Enable Time (T0) (msec),"108,760,723"
+Event End Time (Tend) (msec),"108,761,609"
+Complete File Recorded (Event Recording Progress and Complete Flag),Event Recording Complete
+
+DIAGNOSTIC TROUBLE CODES 0.5 SECONDS PRIOR TO TIME ZERO (RECORD 1)
+DTC 1,"N/A, N/A"
+DTC 2,"N/A, N/A"
+DTC 3,"N/A, N/A"
+DTC 4,"N/A, N/A"
+DTC 5,"N/A, N/A"
+DTC 6,"N/A, N/A"
+DTC 7,"N/A, N/A"
+DTC 8,"N/A, N/A"
+DTC 9,"N/A, N/A"
+
+DEPLOYMENT COMMAND DATA (RECORD 1)
+Driver 1st Stage Deployment Loop Commanded (msec),349
+Passenger 1st Stage Deployment Loop Commanded (msec),Data Not Available
+Driver 2nd Stage Deployment Loop Commanded (msec),469
+Passenger 2nd Stage Deployment Loop Commanded (msec),Data Not Available
+Driver Pretensioner Deployment Loop #1 Commanded (msec),349
+Passenger Pretensioner Deployment Loop #1 Commanded (msec),349
+Driver Pretensioner Deployment Loop #2 Commanded (msec),359
+Passenger Pretensioner Deployment Loop #2 Commanded (msec),355
+Driver Thorax Loop Commanded (msec),Data Not Available
+Passenger Thorax Loop Commanded Passenger (msec),Data Not Available
+Left Front Roof Rail/Head Curtain Loop Commanded (msec),510
+Right Front Roof Rail/Head Curtain Loop Commanded (msec),510
+
+LONGITUDINAL DELTA-V (RECORD 1)
+Time (msec),"Delta-V, Longitudinal (SDM Recorded Vehicle Longitudinal Velocity Change for FSR Event) (km/h)",
+10,-2,
+20,-3,
+30,-4,
+40,-5,
+50,-5,
+60,-6,
+70,-6,
+80,-6,
+90,-7,
+100,-8,
+110,-8,
+120,-8,
+130,-9,
+140,-10,
+150,-12,
+160,-14,
+170,-16,
+180,-17,
+190,-18,
+200,-19,
+210,-19,
+220,-20,
+230,-22,
+240,-23,
+250,-24,
+260,-25,
+270,-27,
+280,-28,
+290,-28,
+300,-29,
+
+LONGITUDINAL ACCELERATION (RECORD 1)
+Time (msec),Longitudinal Acceleration (SDM Recorded Vehicle Longitudinal Acceleration for FSR Event) (g),
+2,-6.24,
+4,-5.18,
+6,-8.12,
+8,-4.24,
+10,-7.43,
+12,-6.18,
+14,-2.68,
+16,-1.99,
+18,-0.93,
+20,-0.12,
+22,-1.62,
+24,-2.06,
+26,-2.56,
+28,-1.12,
+30,-1.18,
+32,0.06,
+34,-2.06,
+36,-3.06,
+38,-2.24,
+40,-2.18,
+42,-1.68,
+44,-0.49,
+46,-0.93,
+48,0.12,
+50,-0.81,
+52,-3.74,
+54,-3.56,
+56,-5.37,
+58,-2.62,
+60,-2.62,
+62,-1.62,
+64,-1.68,
+66,-0.99,
+68,-0.62,
+70,-0.56,
+72,0.24,
+74,0.31,
+76,0.56,
+78,0.24,
+80,-0.56,
+82,-1.37,
+84,-1.31,
+86,-2.31,
+88,-2.56,
+90,-2.93,
+92,-1.93,
+94,-2.81,
+96,-1.56,
+98,-1.62,
+100,-1.18,
+102,-1.24,
+104,-0.68,
+106,-1.06,
+108,-1.06,
+110,-0.31,
+112,-0.37,
+114,-0.43,
+116,-0.49,
+118,-0.99,
+120,-1.93,
+122,-1.93,
+124,-3.06,
+126,-4.18,
+128,-2.62,
+130,-1.81,
+132,-4.49,
+134,-5.49,
+136,-4.62,
+138,-2.56,
+140,-0.62,
+142,0.06,
+144,-4.56,
+146,-4.74,
+148,-5.31,
+150,-5.99,
+152,-8.99,
+154,-9.05,
+156,-7.99,
+158,-3.87,
+160,1.18,
+162,-2.87,
+164,-4.31,
+166,-7.68,
+168,-9.68,
+170,-5.62,
+172,-4.56,
+174,-2.56,
+176,-2.99,
+178,1.18,
+180,-4.49,
+182,-6.62,
+184,-6.93,
+186,-5.12,
+188,-0.12,
+190,-1.74,
+192,-2.68,
+194,-2.37,
+196,-1.18,
+198,0.06,
+200,1.37,
+202,-0.18,
+204,-0.37,
+206,-0.93,
+208,-0.12,
+210,-1.24,
+212,-3.99,
+214,-2.62,
+216,-8.12,
+218,-6.06,
+220,-5.93,
+222,-4.43,
+224,-4.24,
+226,-3.93,
+228,-2.56,
+230,-1.24,
+232,-1.12,
+234,-3.49,
+236,-2.93,
+238,-2.12,
+240,-3.37,
+242,-3.43,
+244,-3.43,
+246,-1.93,
+248,-4.56,
+250,-3.49,
+252,-1.43,
+254,-3.87,
+256,-6.24,
+258,-4.56,
+260,-4.31,
+262,-4.74,
+264,-6.43,
+266,-3.49,
+268,-0.93,
+270,0.62,
+272,0.12,
+274,-2.06,
+276,-5.37,
+278,-5.56,
+280,-5.56,
+282,-3.37,
+284,-1.56,
+286,-0.24,
+288,-0.06,
+290,-1.56,
+292,-1.31,
+294,-1.18,
+296,-1.43,
+298,-1.06,
+300,-1.06,
+
+LATERAL DELTA-V (RECORD 1)
+Time (msec),"Delta-V, Lateral (SDM Recorded Vehicle Lateral Velocity Change for FSR Event) (km/h)",
+10,0,
+20,0,
+30,0,
+40,0,
+50,0,
+60,0,
+70,0,
+80,0,
+90,0,
+100,0,
+110,0,
+120,0,
+130,0,
+140,0,
+150,-1,
+160,-1,
+170,-1,
+180,-1,
+190,-3,
+200,-2,
+210,-3,
+220,-3,
+230,-3,
+240,-3,
+250,-3,
+260,-3,
+270,-4,
+280,-4,
+290,-5,
+300,-5,
+
+LATERAL ACCELERATION (RECORD 1)
+Time (msec),Lateral Acceleration (SDM Recorded Vehicle Lateral Acceleration for FSR Event) (g),
+2,0.49,
+4,3.24,
+6,-1.43,
+8,2.62,
+10,-0.81,
+12,-0.49,
+14,-4.18,
+16,0.06,
+18,-0.06,
+20,0.87,
+22,0.74,
+24,0.12,
+26,0.56,
+28,1.37,
+30,-1.56,
+32,-0.68,
+34,1.43,
+36,-0.87,
+38,-1.81,
+40,-0.31,
+42,-0.87,
+44,-0.06,
+46,-0.81,
+48,-0.18,
+50,0.87,
+52,-1.74,
+54,0.00,
+56,0.06,
+58,1.24,
+60,0.43,
+62,-0.68,
+64,3.43,
+66,0.49,
+68,-2.81,
+70,0.00,
+72,0.49,
+74,-0.74,
+76,0.56,
+78,0.24,
+80,0.74,
+82,-1.49,
+84,0.37,
+86,0.06,
+88,-0.62,
+90,-0.74,
+92,-0.24,
+94,-1.37,
+96,1.99,
+98,0.62,
+100,0.37,
+102,-0.18,
+104,-0.43,
+106,-1.43,
+108,-0.74,
+110,-0.87,
+112,-0.74,
+114,-0.74,
+116,0.37,
+118,0.56,
+120,0.24,
+122,0.43,
+124,-0.12,
+126,0.00,
+128,0.68,
+130,0.43,
+132,3.06,
+134,-1.18,
+136,1.12,
+138,-2.24,
+140,-0.56,
+142,-0.31,
+144,-0.62,
+146,1.49,
+148,-0.81,
+150,0.18,
+152,-4.18,
+154,-3.99,
+156,-3.99,
+158,-0.06,
+160,-0.49,
+162,-0.68,
+164,1.56,
+166,-0.99,
+168,1.56,
+170,-0.31,
+172,-0.93,
+174,-0.62,
+176,-1.49,
+178,0.87,
+180,-3.37,
+182,-3.31,
+184,-2.12,
+186,-1.87,
+188,-2.06,
+190,-2.37,
+192,0.99,
+194,-1.81,
+196,0.87,
+198,-1.93,
+200,0.37,
+202,-1.81,
+204,-1.81,
+206,-1.93,
+208,1.24,
+210,-0.81,
+212,1.24,
+214,1.49,
+216,-0.68,
+218,0.06,
+220,-0.93,
+222,-0.12,
+224,0.43,
+226,-0.06,
+228,-0.56,
+230,-0.99,
+232,-0.18,
+234,-1.24,
+236,-0.68,
+238,-1.12,
+240,0.43,
+242,0.24,
+244,0.62,
+246,1.68,
+248,0.06,
+250,0.49,
+252,0.87,
+254,-3.18,
+256,-2.18,
+258,-0.49,
+260,0.31,
+262,-0.18,
+264,-2.87,
+266,-3.74,
+268,-2.62,
+270,-0.43,
+272,-0.06,
+274,-2.81,
+276,-3.06,
+278,0.18,
+280,-3.99,
+282,-0.06,
+284,-4.49,
+286,-2.12,
+288,-1.37,
+290,-0.81,
+292,-1.49,
+294,-1.24,
+296,-0.06,
+298,-0.68,
+300,0.68,
+
+LEFT FRONT SENSOR #1 RECORDED ACCELERATION (RECORD 1)
+Time (msec),Left Front Sensor #1 Recorded Acceleration (g),
+1,34.00,
+2,12.00,
+3,1.00,
+4,-37.00,
+5,-13.00,
+6,1.00,
+7,5.00,
+8,-4.00,
+9,-4.00,
+10,5.00,
+11,-15.00,
+12,2.00,
+13,-15.00,
+14,-5.00,
+15,-3.00,
+16,-2.00,
+17,-1.00,
+18,-2.00,
+19,-5.00,
+20,1.00,
+21,-9.00,
+22,9.00,
+23,4.00,
+24,3.00,
+25,0.00,
+26,1.00,
+27,0.00,
+28,5.00,
+29,-6.00,
+30,-7.00,
+31,-4.00,
+32,-4.00,
+33,6.00,
+34,-1.00,
+35,-7.00,
+36,0.00,
+37,-9.00,
+38,-5.00,
+39,-3.00,
+40,3.00,
+41,-3.00,
+42,-1.00,
+43,-5.00,
+44,-1.00,
+45,1.00,
+46,1.00,
+47,1.00,
+48,-15.00,
+49,-7.00,
+50,-2.00,
+51,1.00,
+52,-8.00,
+53,4.00,
+54,-1.00,
+55,-8.00,
+56,0.00,
+57,3.00,
+58,-1.00,
+59,-4.00,
+60,4.00,
+61,-9.00,
+62,11.00,
+63,-5.00,
+64,-1.00,
+65,0.00,
+66,-2.00,
+67,-3.00,
+68,-2.00,
+69,-2.00,
+70,4.00,
+71,-2.00,
+72,-3.00,
+73,5.00,
+74,-1.00,
+75,-9.00,
+
+RIGHT FRONT SENSOR #2 RECORDED ACCELERATION (RECORD 1)
+Time (msec),Right Front Sensor #2 Recorded Acceleration (g),
+1,-27.00,
+2,-4.00,
+3,24.00,
+4,-8.00,
+5,-13.00,
+6,-14.00,
+7,-18.00,
+8,3.00,
+9,-4.00,
+10,-7.00,
+11,-2.00,
+12,5.00,
+13,7.00,
+14,-3.00,
+15,7.00,
+16,-19.00,
+17,-8.00,
+18,-2.00,
+19,-1.00,
+20,11.00,
+21,-5.00,
+22,-20.00,
+23,4.00,
+24,9.00,
+25,0.00,
+26,0.00,
+27,-1.00,
+28,3.00,
+29,-2.00,
+30,4.00,
+31,-7.00,
+32,-18.00,
+33,-10.00,
+34,4.00,
+35,2.00,
+36,-8.00,
+37,-2.00,
+38,2.00,
+39,1.00,
+40,8.00,
+41,6.00,
+42,-5.00,
+43,-1.00,
+44,-1.00,
+45,-11.00,
+46,-3.00,
+47,-15.00,
+48,-37.00,
+49,-18.00,
+50,23.00,
+51,9.00,
+52,13.00,
+53,-2.00,
+54,-2.00,
+55,14.00,
+56,3.00,
+57,-5.00,
+58,-1.00,
+59,-9.00,
+60,-4.00,
+61,3.00,
+62,-1.00,
+63,5.00,
+64,10.00,
+65,4.00,
+66,-1.00,
+67,-6.00,
+68,-1.00,
+69,11.00,
+70,1.00,
+71,0.00,
+72,-3.00,
+73,-22.00,
+74,-19.00,
+75,3.00,
+
+LEFT FRONT DOOR SENSOR #1 RECORDED PRESSURE (RECORD 1)
+Time (msec),Left Front Door Sensor #1 Recorded Pressure (kPa),
+1,0.0,
+2,0.0,
+3,0.0,
+4,0.0,
+5,0.0,
+6,0.0,
+7,0.0,
+8,0.0,
+9,0.0,
+10,0.0,
+11,0.0,
+12,0.0,
+13,0.0,
+14,0.0,
+15,0.0,
+16,0.0,
+17,0.0,
+18,0.0,
+19,0.0,
+20,0.0,
+21,0.0,
+22,0.0,
+23,0.0,
+24,0.0,
+25,0.0,
+26,0.0,
+27,0.0,
+28,0.0,
+29,0.0,
+30,0.0,
+31,0.0,
+32,0.0,
+33,0.0,
+34,0.0,
+35,0.0,
+36,0.0,
+37,0.0,
+38,0.0,
+39,0.0,
+40,0.0,
+41,0.0,
+42,0.0,
+43,0.0,
+44,0.0,
+45,0.0,
+46,0.0,
+47,0.0,
+48,0.0,
+49,0.0,
+50,0.0,
+51,0.0,
+52,0.0,
+53,0.0,
+54,0.0,
+55,0.0,
+56,0.0,
+57,0.0,
+58,0.0,
+59,0.0,
+60,0.0,
+61,0.0,
+62,0.0,
+63,0.0,
+64,0.0,
+65,0.0,
+66,0.0,
+67,0.0,
+68,0.0,
+69,0.0,
+70,0.0,
+71,0.0,
+72,0.0,
+73,0.0,
+74,0.0,
+75,0.0,
+
+RIGHT FRONT DOOR SENSOR #2 RECORDED PRESSURE (RECORD 1)
+Time (msec),Right Front Door Sensor #2 Recorded Pressure (kPa),
+1,0.0,
+2,0.0,
+3,0.0,
+4,0.0,
+5,0.0,
+6,0.0,
+7,0.0,
+8,0.0,
+9,0.0,
+10,0.0,
+11,0.0,
+12,0.0,
+13,0.0,
+14,0.0,
+15,0.0,
+16,0.0,
+17,0.0,
+18,0.0,
+19,0.0,
+20,0.0,
+21,0.0,
+22,0.0,
+23,0.0,
+24,0.0,
+25,0.0,
+26,0.0,
+27,0.0,
+28,0.0,
+29,0.0,
+30,0.0,
+31,0.0,
+32,0.0,
+33,0.0,
+34,0.0,
+35,0.0,
+36,0.0,
+37,0.0,
+38,0.0,
+39,0.0,
+40,0.0,
+41,0.0,
+42,0.0,
+43,0.0,
+44,0.0,
+45,0.0,
+46,0.0,
+47,0.0,
+48,0.0,
+49,0.0,
+50,0.0,
+51,0.0,
+52,0.0,
+53,0.0,
+54,0.0,
+55,0.0,
+56,0.0,
+57,0.0,
+58,0.0,
+59,0.0,
+60,0.0,
+61,0.0,
+62,0.0,
+63,0.0,
+64,0.0,
+65,0.0,
+66,0.0,
+67,0.0,
+68,0.0,
+69,0.0,
+70,0.0,
+71,0.0,
+72,0.0,
+73,0.0,
+74,0.0,
+75,0.0,
+
+ROLLOVER CRASH PULSE (RECORD 1)
+Contains No Recorded Data
+
+"ACCELERATION, LATERAL, ROLLOVER (RECORD 1)"
+Contains No Recorded Data
+
+"ACCELERATION, NORMAL, ROLLOVER (RECORD 1)"
+Contains No Recorded Data
+
+PRE-CRASH DATA -8.0 TO 0.0 SEC (RECORD 1)
+Time (sec),"Accelerator Pedal, % Full (%)",ABS Activity,Brake Pedal Position (%),Driver Applied Brake Pedal Pressure (kPa),Driver Applied Brake Pedal Pressure Detected,"Service Brake, On/Off (Brake Pedal Initial Travel Achieved)",Cruise and Speed Limiter Switch Status,Cruise Secondary Switch Status,Conventional Cruise Control,Adaptive Cruise Control Selected Mode,Adaptive Cruise Control,Transmission Estimated Gear,Transmission Shift Lever Position,Reduced Engine Power Mode Indicator On,Engine RPM (Engine Speed),Engine Torque (Ft Lbs),"Engine Throttle, % Full (%)","Speed, Vehicle Indicated (km/h)",IMU Yaw Rate (deg/sec),Right Front Wheel Angular Speed (RPM),Left Front Wheel Angular Speed (RPM),Right Rear Wheel Angular Speed (RPM),Left Rear Wheel Angular Speed (RPM),Steering Wheel Angle (deg),Propulsion System Active,System Power Mode,Backup System Power Mode,SDM Power Mode,Ignition Status,Ignition Prolongation Timer (sec),Secondary Collision Prolongation Timer (sec),Antilock Brake System Failed,Brake Pedal Override Flag,Automatic Brake Status,Electronic Stability Control Status,Traction Control System Present,Traction Control System Failed,Traction Control System Enabled,Traction Control System Active,Traction Control System Switch Status,Left Turn Signal Switch Active,Right Turn Signal Switch Active,IMU Lateral Acceleration (g),IMU Longitudinal Acceleration (g),Red Brake Telltale On,Brake Boost Status - Eboost,
+-8.0,13,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,489",24.0,12,76,0.000,522,521,522,522,Data Not Available,True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.000000,-0.012688,False,Normal Boost,
+-7.5,13,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,516",29.5,15,76,-0.360,526,525,527,526,"1,023",True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.006344,-0.012688,False,Normal Boost,
+-7.0,12,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,525",32.5,17,77,-0.432,531,529,531,529,"1,024",True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.012688,0.012688,False,Normal Boost,
+-6.5,2,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,496",26.6,10,77,-0.360,533,532,534,532,Data Invalid,True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.000000,-0.006344,False,Normal Boost,
+-6.0,0,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,440",-0.4,1,78,-0.624,536,535,535,534,"1,022",True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.000000,-0.012688,False,Normal Boost,
+-5.5,0,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,435",-8.1,3,78,-0.912,534,537,538,536,"1,022",True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.019032,-0.025376,False,Normal Boost,
+-5.0,0,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,464",-14.8,0,78,0.720,539,537,536,536,"-1,017",True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.114558,-0.044530,False,Normal Boost,
+-4.5,0,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,459",-15.1,0,78,0.720,539,537,539,537,"-1,021",True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.121024,-0.038186,False,Normal Boost,
+-4.0,0,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,461",-15.5,0,78,-1.104,539,538,537,537,"1,020",True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.044530,-0.044530,False,Normal Boost,
+-3.5,0,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,464",-15.1,0,78,-1.536,539,539,539,539,"1,020",True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.031842,-0.031842,False,Normal Boost,
+-3.0,0,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,467",-14.8,0,78,0.024,540,538,539,538,"-1,023",True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.063684,-0.050874,False,Normal Boost,
+-2.5,0,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,455",-14.8,0,78,-1.152,542,540,540,539,"1,023",True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,-0.006344,-0.063684,False,Normal Boost,
+-2.0,0,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,457",-15.1,0,78,-0.264,535,540,533,544,"-1,014",True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.280234,-0.070028,False,Normal Boost,
+-1.5,0,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,428",-14.8,0,78,4.416,533,537,501,529,"-1,008",True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.082716,-0.375882,False,Normal Boost,
+-1.0,0,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,397",-15.1,0,74,7.680,501,522,538,523,-943,True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.949282,-0.375882,False,Normal Boost,
+-0.5,0,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,345",-14.8,0,72,5.208,509,505,492,493,-934,True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.611586,-0.050874,False,Normal Boost,
+0.0,0,Off,0,0,False,Off (False),No Activation,No Activation,Inactive,Cruise Control Mode Switching Not Supported,Inactive,Seventh,Forward Range A,Off,"1,328",-15.5,0,72,12.576,509,509,481,483,-939,True,Propulsion,Propulsion,Propulsion,On,5.0,0.0,False,False,Not Active,Normal Operation,True,False,True,Traction Control Off,Enabled,False,False,0.401258,-0.057218,False,Normal Boost,
+
