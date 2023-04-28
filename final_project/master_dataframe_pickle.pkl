@@ -1,5 +1,5 @@
-Complete Records
-"                                       Complete Record
+,Complete Records
+0,"                                       Complete Record
 0                                 CDR FILE INFORMATION
 1                   User Entered VIN,1FDXE45S29DA10452
 2                                   User,M.  Mikhailov
@@ -13,7 +13,7 @@ Complete Records
 206                          Contains No Recorded Data
 
 [207 rows x 1 columns]"
-"                                      Complete Record
+1,"                                      Complete Record
 0                                CDR FILE INFORMATION
 1                  User Entered VIN,1FDXE4FS3BDB02206
 2                                             User,SP
@@ -27,7 +27,7 @@ Complete Records
 60                          Contains No Recorded Data
 
 [61 rows x 1 columns]"
-"                                       Complete Record
+2,"                                       Complete Record
 0                                 CDR FILE INFORMATION
 1                   User Entered VIN,1FDXE4FS4BDA50634
 2                                   User,M.  Mikhailov
@@ -41,7 +41,7 @@ Complete Records
 330                                    259.0,0.65,1.05
 
 [331 rows x 1 columns]"
-"                                      Complete Record
+3,"                                      Complete Record
 0                                CDR FILE INFORMATION
 1                  User Entered VIN,1FDXE4FS5BDA96599
 2                             User,DENIS SHARSHUNSKIY
@@ -55,7 +55,7 @@ Complete Records
 60                          Contains No Recorded Data
 
 [61 rows x 1 columns]"
-"                                       Complete Record
+4,"                                       Complete Record
 0                                 CDR FILE INFORMATION
 1                   User Entered VIN,1FDXE4FSXCDA06364
 2                                              User,SP
@@ -69,7 +69,7 @@ Complete Records
 330                                 250.0,-9.20,-14.80
 
 [331 rows x 1 columns]"
-"                                      Complete Record
+5,"                                      Complete Record
 0                                CDR FILE INFORMATION
 1                  User Entered VIN,1FTNE2EW4DDA67716
 2                                             User,SP
@@ -83,7 +83,7 @@ Complete Records
 64                          Contains No Recorded Data
 
 [65 rows x 1 columns]"
-"                                       Complete Record
+6,"                                       Complete Record
 0                                 CDR FILE INFORMATION
 1                   User Entered VIN,1FTNR1ZM1FKB19874
 2                                              User,SP
@@ -97,7 +97,7 @@ Complete Records
 386                                    258.5,4.58,7.38
 
 [387 rows x 1 columns]"
-"                                       Complete Record
+7,"                                       Complete Record
 0                                 CDR FILE INFORMATION
 1                   User Entered VIN,1FTYR1YM2KKB02011
 2                                   User,M.  Mikhailov
@@ -111,7 +111,7 @@ Complete Records
 304                          Contains No Recorded Data
 
 [305 rows x 1 columns]"
-"                                      Complete Record
+8,"                                      Complete Record
 0                                CDR FILE INFORMATION
 1                  User Entered VIN,1FTYR1ZM2GKA34167
 2                                             User,SP
@@ -125,7 +125,7 @@ Complete Records
 68                          Contains No Recorded Data
 
 [69 rows x 1 columns]"
-"                                      Complete Record
+9,"                                      Complete Record
 0                                CDR FILE INFORMATION
 1                  User Entered VIN,1FTYR1ZM9KKB21198
 2                                               User,
@@ -139,7 +139,7 @@ Complete Records
 68                          Contains No Recorded Data
 
 [69 rows x 1 columns]"
-"                                       Complete Record
+10,"                                       Complete Record
 0                                System:  SDM30_DELPHI
 1                                 CDR FILE INFORMATION
 2                   User Entered VIN,1GTN1LEC6JZ262724
@@ -153,7 +153,7 @@ Complete Records
 518                               -0.5,No,No,No,-8,Off
 
 [519 rows x 1 columns]"
-"                                      Complete Record
+11,"                                      Complete Record
 0                                CDR FILE INFORMATION
 1                  User Entered VIN,1FDXE4FS5BDB17029
 2                                  User,M.  Mikhailov
@@ -167,7 +167,7 @@ Complete Records
 60                          Contains No Recorded Data
 
 [61 rows x 1 columns]"
-"                                      Complete Record
+12,"                                      Complete Record
 0                             System:  SDM11P_AUTOLIV
 1                                CDR FILE INFORMATION
 2                  User Entered VIN,1GDY7RFF2G1901028
@@ -228,7 +228,7 @@ Complete Records
 57  ""ESS # 8 Traceability Data, Part Number/Broadc...
 58       ""ESS # 8 Traceability Data, Supplier Code"",E
 59  ""ESS # 8 Traceability Data, Traceability Numbe..."
-"                                       Complete Record
+13,"                                       Complete Record
 0                              System:  SDM11P_AUTOLIV
 1                                 CDR FILE INFORMATION
 2                   User Entered VIN,1GDY7RFG8J1900904
@@ -242,7 +242,7 @@ Complete Records
 965                               -0.5,No,No,No,-15,On
 
 [966 rows x 1 columns]"
-"                                      Complete Record
+14,"                                      Complete Record
 0                               System:  SDM30_DELPHI
 1                                CDR FILE INFORMATION
 2                  User Entered VIN,1GTN1LEC8JZ905641
@@ -256,7 +256,7 @@ Complete Records
 62  ""ESS # 8 Traceability Data, Traceability Numbe...
 
 [63 rows x 1 columns]"
-"                                      Complete Record
+15,"                                      Complete Record
 0                               System:  SDM30_DELPHI
 1                                CDR FILE INFORMATION
 2                  User Entered VIN,1GTN1LECXHZ906736
@@ -270,7 +270,7 @@ Complete Records
 62  ""ESS # 8 Traceability Data, Traceability Numbe...
 
 [63 rows x 1 columns]"
-"                                       Complete Record
+16,"                                       Complete Record
 0                              System:  SDM11P_AUTOLIV
 1                                 CDR FILE INFORMATION
 2                   User Entered VIN,1GTW7AFG3L1237595
@@ -284,7 +284,7 @@ Complete Records
 512                               -0.5,No,No,No, 1,Off
 
 [513 rows x 1 columns]"
-"                                       Complete Record
+17,"                                       Complete Record
 0                                 CDR FILE INFORMATION
 1                   User Entered VIN,3C6JR6DT3KG546976
 2                                   User,M.  Mikhailov
@@ -298,7 +298,7 @@ Complete Records
 691  -0.1,Complete,38,0,6,On,""1,056"",No,Engaged,147...
 
 [692 rows x 1 columns]"
-"                                       Complete Record
+18,"                                       Complete Record
 0                                       System:  SDM50
 1                                 CDR FILE INFORMATION
 2                   User Entered VIN,3GCNAAED6NG662964
@@ -312,7 +312,7 @@ Complete Records
 885  0.0,0,Off,0,0,False,Off (False),No Activation,...
 
 [886 rows x 1 columns]"
-"                                       Complete Record
+19,"                                       Complete Record
 0                               System:  GMSDM40DELPHI
 1                                 CDR FILE INFORMATION
 2                   User Entered VIN,3GCNWAEF5LG293370
@@ -326,7 +326,7 @@ Complete Records
 648                              -0.5,No,No,No,Off,37,
 
 [649 rows x 1 columns]"
-"                                       Complete Record
+20,"                                       Complete Record
 0                               System:  GMSDM40DELPHI
 1                                 CDR FILE INFORMATION
 2                   User Entered VIN,3GCNWAEF5LG401485
@@ -340,7 +340,7 @@ Complete Records
 648                              -0.5,No,No,No,Off,20,
 
 [649 rows x 1 columns]"
-"                                       Complete Record
+21,"                                       Complete Record
 0                                 CDR FILE INFORMATION
 1                   User Entered VIN,1FDXE4FS2FDA13295
 2                                   User,M.  Mikhailov
@@ -354,7 +354,7 @@ Complete Records
 204                          Contains No Recorded Data
 
 [205 rows x 1 columns]"
-"                                      Complete Record
+22,"                                      Complete Record
 0                                CDR FILE INFORMATION
 1                  User Entered VIN,1FDXE4FS3KDC44491
 2                                  User,M.  Mikhailov
@@ -368,7 +368,7 @@ Complete Records
 60                          Contains No Recorded Data
 
 [61 rows x 1 columns]"
-"                                      Complete Record
+23,"                                      Complete Record
 0                                CDR FILE INFORMATION
 1                  User Entered VIN,1FDXE4FS5HDC34117
 2                                             User,SP
@@ -382,7 +382,7 @@ Complete Records
 60                          Contains No Recorded Data
 
 [61 rows x 1 columns]"
-"                 Complete Record
+24,"                 Complete Record
 0      Claim Number,1281211-2018
 1                Vehicle,JH2946G
 2        Date of Loss,10/31/2018
@@ -396,7 +396,7 @@ Complete Records
 170         14,62,F8,02,FF,FF,FF
 
 [171 rows x 1 columns]"
-"                                      Complete Record
+25,"                                      Complete Record
 0                                CDR FILE INFORMATION
 1                  User Entered VIN,1FDXE4FS2GDC52167
 2                                             User,SP
@@ -410,7 +410,7 @@ Complete Records
 60                          Contains No Recorded Data
 
 [61 rows x 1 columns]"
-"                                       Complete Record
+26,"                                       Complete Record
 0                              System:  SDM11P_AUTOLIV
 1                                 CDR FILE INFORMATION
 2                   User Entered VIN,1GDY7RFF5G1139524
@@ -424,7 +424,7 @@ Complete Records
 512                               -0.5,No,No,No, 0,Off
 
 [513 rows x 1 columns]"
-"                                       Complete Record
+27,"                                       Complete Record
 0                                 CDR FILE INFORMATION
 1                   User Entered VIN,1FDXE4FS8HDC14735
 2                                                User,
@@ -438,7 +438,7 @@ Complete Records
 205                          Contains No Recorded Data
 
 [206 rows x 1 columns]"
-"                                       Complete Record
+28,"                                       Complete Record
 0                              System:  SDM11P_AUTOLIV
 1                                 CDR FILE INFORMATION
 2                   User Entered VIN,1GDY7RFF6H1900448
@@ -452,7 +452,7 @@ Complete Records
 512                              -0.5,No,No,No,-17,Off
 
 [513 rows x 1 columns]"
-"                                       Complete Record
+29,"                                       Complete Record
 0                                 CDR FILE INFORMATION
 1                   User Entered VIN,1FDXE4FS9CDA40313
 2                                              User,SP
