@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ACMData"
+		},
+		{
+			"path": "../../how_to_do_things"
+		},
+		{
+			"path": "../../UHES"
+		}
+	],
+	"settings": {}
+}
